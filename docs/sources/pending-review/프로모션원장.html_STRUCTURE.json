@@ -1,0 +1,962 @@
+{
+  "controls_links_graphics": [
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "2037-06-30",
+        "readonly": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "",
+        "readonly": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "전체",
+        "readonly": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "전체",
+        "readonly": ""
+      },
+      "text": ""
+    }
+  ],
+  "tables": [
+    [
+      [
+        {
+          "text": "항목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "값 형식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "설명",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "영대문자 + 숫자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원장 식별번호. 대소문자 구분 없음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "명칭",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "고객 안내에 쓰는 이름",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "종류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상시혜택 / 신규가입 / 공구(인플루언서) / 보상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "구분값",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "율·액",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "N% 또는 N원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정률·정액",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "대상 회원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조합원 / 신규(최초구매) / 전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "자격은 시스템 등록 기록으로만 확인 (「증빙 권위 서열 조항(당사자 제출물 < 제3자 발행물)」 제9조)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "대상 품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품목 한정 또는 전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품목 한정일 때는 취급 품목 11종의 품목명으로 적는다 — 표기·코드 정본은 「품목별 SKU 카탈로그(1차 6종 + 수산물)」",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "유효기간",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시작~종료 또는 상시",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판정 기준 시각 = 결제 완료 시각",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "1인 한도",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "N회",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사람 단위. 계정 단위가 아니다 (§6)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "중복 규칙",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "§3 매트릭스 참조",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "행마다 예외를 적지 않고 매트릭스로 관리",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발행 근거",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "게시물·라이브·규정 조항",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "대조 원본",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "등록자 / 승인",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "인물",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "홍보라 / 고길동 조합장",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "상태",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "유효 / 기간 종료 / 중단",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "기준일 병기 필수",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "명칭",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "종류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "율·액",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "대상 회원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "대상 품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "유효기간",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1인 한도",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "발행 근거",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "등록자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상태",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "DANGOL5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "단골 5%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상시혜택",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조합원 (재구매)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상시",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "재구매마다 발급",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「조합 규정집」 제3조② · 「외부 조합원 규정집」",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "홍보라",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "유효",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WELCOME3000",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "신규가입 3,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "신규가입",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "3,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "신규 (최초구매)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상시",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1인 1회",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「조합 규정집」 제3조 · 「외부 조합원 규정집」",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "홍보라",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "유효",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "REFER5000",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "추천 리워드 5,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상시혜택",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조합원 (추천인)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상시",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "피추천인 1인당 1회",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「외부 조합원 규정집」 제5조 · 「조합원 가입 안내 리플렛」 ［조합원 혜택］④",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "홍보라",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "유효",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "GAMJA10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "감자공구 10%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공구(인플루언서)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "10%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "감자 한정(봄감자)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2037-05-02 ~ 05-09",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1인 1회",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「인플루언서 홍보 게시물」 2037-05-02 라이브",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "홍보라",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "기간 종료",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MANGO10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "망고공구 10%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공구(인플루언서)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "10%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플망고 한정",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2037-06-05 ~ 06-12",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1인 1회",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「인플루언서 홍보 게시물」 2037-06-05 라이브",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "홍보라",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "기간 종료",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SUBAK15",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박공구 15%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공구(인플루언서)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "15%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박 한정",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2037-06-26 ~ 07-03",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1인 1회",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「인플루언서 홍보 게시물」 2037-06-26 라이브",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "홍보라",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "유효 (07-03 24:00까지)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "주장된 코드·혜택",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원장 조회",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "근거",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MELON99 — 99% 할인 · 무제한 사용",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "미등록. 생성 불가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「조합 규정집」 제3조④ — 임의 코드 생성·무제한 발급 불가",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "20% 할인 코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "발행 사실 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「인플루언서 홍보 게시물」 [핵심 게시물 사실] — 20% 코드는 발행된 바 없다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "겨울 가격 적용 / 단골 특별가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원장 행 없음 — 표기가 밖 임의 할인",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「조합 규정집」 제3조④ · 표기가 구조는 「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "프로그램",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "대상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조건",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "모집 게시",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상품 수령",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조건 기한",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상태",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "수박 체험단",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "20명",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수령 후 7일 내 후기 작성 · 조합 시스템 등록만 인정",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2037-06-08(월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2037-06-15(월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2037-06-22(월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "기한 경과",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "항목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "값",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "설명",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "계정",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "계정 식별자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원장 코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발급 시각 / 사용 주문",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시각 · 주문번호",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "사용 여부",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "미사용 / 사용 / 소멸",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "동일인 신호",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "일치 여부(참/거짓)만",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "결제수단·배송지·연락처의 일치 여부만 반환하고 값 자체는 노출하지 않는다 (「제3자 정보 보호 조항(공급자·직원·수령인)」)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "구분",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "유효",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "DANGOL5 (조합원 재구매 5%) · WELCOME3000 (신규 3,000원) · REFER5000 (추천 리워드 5,000원 — 요건 충족 시) · SUBAK15 (수박공구 15% — 07-03 24:00까지, 수박 한정·조합원 할인과 중복 불가)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "기간 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "GAMJA10 · MANGO10",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "상시 가능",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "보상성 쿠폰 §6 (사유가 있을 때)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ]
+  ]
+}

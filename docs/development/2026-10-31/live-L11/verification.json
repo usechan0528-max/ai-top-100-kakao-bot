@@ -1,0 +1,31 @@
+{
+  "verifiedAt": "2026-10-31T04:48:40.092Z",
+  "tc": "L-11",
+  "accepted": [
+    {
+      "kind": "refund",
+      "id": "RFD-100100016-01",
+      "request_status": "SUBMITTED",
+      "amount": 34900
+    },
+    {
+      "kind": "escalation",
+      "id": "ESC-18462",
+      "request_status": "SUBMITTED",
+      "review_status": "PENDING"
+    }
+  ],
+  "calls": [
+    {
+      "method": "GET",
+      "path": "/api/refunds?order_no=100100016",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/escalations/ESC-18462",
+      "status": 200
+    }
+  ],
+  "postCount": 0
+}

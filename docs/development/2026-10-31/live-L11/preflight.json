@@ -1,0 +1,49 @@
+{
+  "tc": "L-11",
+  "orderNo": "100100016",
+  "memberId": "MB-77003",
+  "amount": 34900,
+  "status": "PAID",
+  "lotId": "KD-WTM-370624-03",
+  "delivered": true,
+  "investigation": null,
+  "priorLotTickets": 1,
+  "existingRefunds": [],
+  "calls": [
+    {
+      "method": "GET",
+      "path": "/api/members?name=[fixture]",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/orders?member_id=MB-77003",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/shipments?order_no=100100016",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/lots/KD-WTM-370624-03",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/lots/KD-WTM-370624-03/investigation",
+      "status": 404
+    },
+    {
+      "method": "GET",
+      "path": "/api/tickets?lot_id=KD-WTM-370624-03",
+      "status": 200
+    },
+    {
+      "method": "GET",
+      "path": "/api/refunds?order_no=100100016",
+      "status": 200
+    }
+  ]
+}

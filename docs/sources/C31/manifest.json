@@ -1,0 +1,29 @@
+{
+  "archive": "Q4owkAQyT-xhxfMKTJ2wUw.zip",
+  "archive_sha256": "b4e413fee7b8ed12ebc9d694fa146d4a1862fc09ef69e238678d97723e8d46be",
+  "received_date": "2026-10-31",
+  "scenario_date": "2037-06-30",
+  "method": "whole-image visual transcription",
+  "files": [
+    {
+      "name": "C31_driver-notebook.png",
+      "bytes": 1386891,
+      "sha256": "56179414a5d30d1d02e01008baf66f98d61c697372e5453a0c9f064ccc7e373b",
+      "width": 1076,
+      "height": 1462,
+      "pages": 1,
+      "transcribed": true,
+      "visually_reviewed": true
+    },
+    {
+      "name": "C31_handover-ledger.png",
+      "bytes": 1677200,
+      "sha256": "ed7a66a5edebc10743cf680baeee9ff107bcfcb85ff61d9518e37bca00e5e566",
+      "width": 1476,
+      "height": 1066,
+      "pages": 1,
+      "transcribed": true,
+      "visually_reviewed": true
+    }
+  ]
+}

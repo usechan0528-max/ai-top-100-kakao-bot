@@ -1,0 +1,223 @@
+{
+  "source": "artifacts\\operating-rules-source\\pysSXW5mY9eWWv6tMsrihA.pdf",
+  "sha256": "c445015e740d17367a4bfa5775826d2c11b734c906122de27c87c7a1069b0584",
+  "pages": 7,
+  "annotations": [
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(14, 0, 2136349523488), '/XYZ', 0, 798.31619, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(16, 0, 2136349523488), '/XYZ', 0, 798.31619, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 798.31619, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 798.31619, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 340.81617, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(22, 0, 2136349523488), '/XYZ', 0, 736.06619, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(24, 0, 2136349523488), '/XYZ', 0, 798.31619, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 1,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(24, 0, 2136349523488), '/XYZ', 0, 257.56617, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(16, 0, 2136349523488), '/XYZ', 0, 755.4245, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(22, 0, 2136349523488), '/XYZ', 0, 379.67448, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 555.17446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 481.67448, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(22, 0, 2136349523488), '/XYZ', 0, 507.92448, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 298.6745, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 528.17446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 225.9245, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 755.4245, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 130.6745, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 472.67448, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(22, 0, 2136349523488), '/XYZ', 0, 804.1745, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 755.4245, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(16, 0, 2136349523488), '/XYZ', 0, 465.17448, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 682.67446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(16, 0, 2136349523488), '/XYZ', 0, 294.9245, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 399.92448, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 408.92448, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 327.1745, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(22, 0, 2136349523488), '/XYZ', 0, 693.17446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 254.4245, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(22, 0, 2136349523488), '/XYZ', 0, 563.42446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(16, 0, 2136349523488), '/XYZ', 0, 537.92446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 181.6745, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(16, 0, 2136349523488), '/XYZ', 0, 592.67446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(18, 0, 2136349523488), '/XYZ', 0, 126.1745, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(20, 0, 2136349523488), '/XYZ', 0, 609.92446, 0]}",
+      "dest": "None"
+    },
+    {
+      "page": 7,
+      "subtype": "/Link",
+      "action": "{'/S': '/GoTo', '/D': [IndirectObject(22, 0, 2136349523488), '/XYZ', 0, 452.42448, 0]}",
+      "dest": "None"
+    }
+  ]
+}

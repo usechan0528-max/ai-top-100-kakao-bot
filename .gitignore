@@ -1,0 +1,19 @@
+.env
+.env.*
+!.env.example
+node_modules/
+artifacts/
+*.log
+.dev.local.json
+.wrangler/
+.dev.vars
+.dev.vars.*
+coverage/
+.DS_Store
+Thumbs.db
+
+# Local credentials must never enter Git history, including private repositories.
+secrets/
+*.pem
+*.key
+*action-token*.txt

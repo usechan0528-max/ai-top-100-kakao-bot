@@ -1,0 +1,100 @@
+{
+  "archive": "tHHClVffN4f8jvA_vuOtuQ.zip",
+  "archive_sha256": "fc21e0d7eff66e5dbf3912010d1ca018e989af5757e754351af2e4c433cefe67",
+  "files": [
+    {
+      "name": "온도기록계_관측기록.xlsx",
+      "bytes": 14921,
+      "sha256": "bf263ea0c72209b8cdd4299719ffb82dd72d65d784fdf527d27bfb91458f9f38"
+    },
+    {
+      "name": "온도기록계_조회.html",
+      "bytes": 14873,
+      "sha256": "a1e5949b82c849c507cf60882e5fefe99afd62e491c039cdbd848ff06f9c680e"
+    }
+  ],
+  "sheets": [
+    {
+      "name": "개요",
+      "range": "A1:B14",
+      "nonempty": 19,
+      "state": "visible",
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "merged": "",
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "name": "2. 임계·기록 규약",
+      "range": "A1:C9",
+      "nonempty": 20,
+      "state": "visible",
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "merged": "",
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "name": "3. 기재 항목 및 작성 기준",
+      "range": "A1:D12",
+      "nonempty": 41,
+      "state": "visible",
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "merged": "",
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "name": "4. 구간 요약",
+      "range": "A1:I11",
+      "nonempty": 48,
+      "state": "visible",
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "merged": "A9:I9 A11:I11",
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "name": "5. 이탈 구간 상세",
+      "range": "A1:F19",
+      "nonempty": 56,
+      "state": "visible",
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "merged": "A3:F3 A17:F17 A19:F19",
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "name": "6. 연결 기록의 결번",
+      "range": "A1:B7",
+      "nonempty": 11,
+      "state": "visible",
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "merged": "",
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "name": "7. 조회 기준",
+      "range": "A1:B6",
+      "nonempty": 8,
+      "state": "visible",
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "merged": "",
+      "images": 0,
+      "charts": 0
+    }
+  ],
+  "nonempty_cells": 203,
+  "formulas": 0,
+  "comments": 0,
+  "html_tables": 6,
+  "html_scripts": 0
+}

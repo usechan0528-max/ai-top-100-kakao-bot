@@ -1,0 +1,15 @@
+{
+  "name": "usechan-kakao-bot",
+  "main": "src/worker.mjs",
+  "compatibility_date": "2026-10-23",
+  "workers_dev": true,
+  "preview_urls": false,
+  "observability": {"enabled": true},
+  "vars": {"MODEL_CALLS_PER_MINUTE": "60", "MODEL_CALLS_PER_DAY": "2000",
+    "WRITE_RECORD_TTL_MS": "86400000", "WRITE_LOCK_SCOPE": "user"},
+  "durable_objects": {"bindings": [
+    {"name": "CONVERSATIONS", "class_name": "Conversation"},
+    {"name": "USAGE", "class_name": "UsageBudget"}
+  ]},
+  "migrations": [{"tag": "v1-conversation", "new_sqlite_classes": ["Conversation", "UsageBudget"]}]
+}

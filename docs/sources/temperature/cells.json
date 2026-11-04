@@ -1,0 +1,1626 @@
+[
+  {
+    "sheet": "개요",
+    "cell": "A1",
+    "value": "콜드체인 온도 로그",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A3",
+    "value": "문서",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "B3",
+    "value": "콜드체인 온도 로그",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A4",
+    "value": "기준일",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "B4",
+    "value": "2037-06-30",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A5",
+    "value": "관리",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "B5",
+    "value": "박민아",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A6",
+    "value": "발행",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "B6",
+    "value": "교동마을 산지직송",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A8",
+    "value": "시트",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "B8",
+    "value": "내용",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A9",
+    "value": "2. 임계·기록 규약",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A10",
+    "value": "3. 기재 항목 및 작성 기준",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A11",
+    "value": "4. 구간 요약",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "B11",
+    "value": "조회 기준가 어긋나 있다. 공식 배송 기록에 남은 그날의 담당·차량은 구방만 · TR-KD-01이고(인계가 기록되지 않았다 — 「업무 인계·부재 기록(구방만 → 박민아)」 §3), 그 차량으로 이 로그를 조회하면 해",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A12",
+    "value": "5. 이탈 구간 상세",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "B12",
+    "value": "운송 구간 전체(23행) 중 이탈 판정이 만들어진 구간만 옮긴다.",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A13",
+    "value": "6. 연결 기록의 결번",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "개요",
+    "cell": "A14",
+    "value": "7. 조회 기준",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A1",
+    "value": "2. 임계·기록 규약",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A3",
+    "value": "항목",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "B3",
+    "value": "값",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "C3",
+    "value": "근거",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A4",
+    "value": "유지 기준",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "B4",
+    "value": "-18℃ 이하",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "C4",
+    "value": "「위탁 계약서(갯마을 조합 ↔ 교동 조합)」 위탁 품질 조건의 냉동 경계",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A5",
+    "value": "기록 간격",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "B5",
+    "value": "30분",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "C5",
+    "value": "탑차 온도 기록계 자동 기록",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A6",
+    "value": "이탈 임계",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "B6",
+    "value": "-15℃ 초과가 30분 이상 지속",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "C6",
+    "value": "순간 문 개방 상승을 이탈로 세지 않기 위한 지속 조건",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A7",
+    "value": "이탈 플래그",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "B7",
+    "value": "정상 · 주의(-18 초과 ~ -15 이하) · 이탈(-15℃ 초과 30분 이상)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A8",
+    "value": "해동·재냉동 판정",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "B8",
+    "value": "이탈 구간 뒤 다시 -18℃ 이하로 복귀한 이력이 있으면 해동 후 재냉동으로 본다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "C8",
+    "value": "「판매 환불 규정집」 제17조의 사실 요건",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "A9",
+    "value": "이탈 알림",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "2. 임계·기록 규약",
+    "cell": "B9",
+    "value": "없다. 기록계는 저장만 하고 경보를 내보내지 않는다 — 이탈은 사후 열람으로만 발견된다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A1",
+    "value": "3. 기재 항목 및 작성 기준",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A3",
+    "value": "항목",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B3",
+    "value": "형식",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C3",
+    "value": "필수",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D3",
+    "value": "비고",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A4",
+    "value": "배송건 조회번호",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B4",
+    "value": "주문번호 + 로트번호",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C4",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D4",
+    "value": "「로트·출고 검사 기록(당도·중량·온도·로트번호)」의 로트번호와 같은 표기",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A5",
+    "value": "차량",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B5",
+    "value": "탑차 식별 코드",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C5",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D5",
+    "value": "기사 개인 연락처·주소를 적는 항목가 없다 (「조합 규정집」 제15조 · 「제3자 정보 보호 조항(공급자·직원·수령인)」)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A6",
+    "value": "구간",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B6",
+    "value": "집하(산지→탑차) · 운송(탑차 운행) · 간선 인계(탑차→간선 배송)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C6",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D6",
+    "value": "⚠ 구간명에 인도를 쓰지 않는다 — 「위탁 계약서(갯마을 조합 ↔ 교동 조합)」 제2조2호의 계약상 '인도'(적재 완료 시점)와 다른 시점을 가리키게 되어 품질 책임 구간을 잘못 판단할 수 있다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A7",
+    "value": "기록 시각",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B7",
+    "value": "날짜 + 시:분",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C7",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D7",
+    "value": "30분 간격",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A8",
+    "value": "온도",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B8",
+    "value": "℃ 소수 첫째 자리",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C8",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D8",
+    "value": "탑차 적재함 내 센서값",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A9",
+    "value": "임계 초과 플래그",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B9",
+    "value": "정상 · 주의 · 이탈",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C9",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D9",
+    "value": "§2 정의",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A10",
+    "value": "기록 방식",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B10",
+    "value": "자동(기록계) · 수기",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C10",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D10",
+    "value": "수기 보정 여부를 남기는 칸",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A11",
+    "value": "담당자",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B11",
+    "value": "실명",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C11",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D11",
+    "value": "그 구간을 실제로 운행·인계한 사람",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "A12",
+    "value": "공식 배송 기록 연결",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "B12",
+    "value": "연결 · 미연결",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "C12",
+    "value": "✅",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "3. 기재 항목 및 작성 기준",
+    "cell": "D12",
+    "value": "미연결이면 주문 조회로는 보이지 않는다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A1",
+    "value": "4. 구간 요약 — 건별",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A3",
+    "value": "배송건",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "B3",
+    "value": "차량",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "C3",
+    "value": "구간",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "D3",
+    "value": "시작~종료",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "E3",
+    "value": "최저",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "F3",
+    "value": "최고",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "G3",
+    "value": "플래그",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "H3",
+    "value": "담당자",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "I3",
+    "value": "공식 기록 연결",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A4",
+    "value": "100400001 · GM-OKD-370624-01 (냉동 옥돔)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "B4",
+    "value": "TR-GM-02(냉동 탑차)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "C4",
+    "value": "집하",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "D4",
+    "value": "06-24 05:30~06:30",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "E4",
+    "value": -19.4,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "F4",
+    "value": -19,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "G4",
+    "value": "정상",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "H4",
+    "value": "박민아",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "I4",
+    "value": "미연결",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A5",
+    "value": "〃",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "B5",
+    "value": "〃",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "C5",
+    "value": "운송",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "D5",
+    "value": "06-24 06:30~18:00",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "E5",
+    "value": -19.2,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "F5",
+    "value": -8.6,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "G5",
+    "value": "이탈",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "H5",
+    "value": "박민아",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "I5",
+    "value": "미연결",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A6",
+    "value": "〃",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "B6",
+    "value": "〃",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "C6",
+    "value": "간선 인계",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "D6",
+    "value": "06-24 18:00",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "E6",
+    "value": -18.6,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "F6",
+    "value": -18.6,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "G6",
+    "value": "정상",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "H6",
+    "value": "박민아 입회 검침",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "I6",
+    "value": "연결(인계 사실만)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A7",
+    "value": "100400001 (공식 기록상 담당·차량)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "B7",
+    "value": "TR-KD-01(교동 집하 차량)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "C7",
+    "value": "—",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "D7",
+    "value": "06-24",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "E7",
+    "value": "—",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "F7",
+    "value": "—",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "G7",
+    "value": "—",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "H7",
+    "value": "구방만(공식 기록상)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "I7",
+    "value": "연결",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A9",
+    "value": "조회 기준가 어긋나 있다. 공식 배송 기록에 남은 그날의 담당·차량은 구방만 · TR-KD-01이고(인계가 기록되지 않았다 — 「업무 인계·부재 기록(구방만 → 박민아)」 §3), 그 차량으로 이 로그를 조회하면 해당 일자 운행 기록이 없다. 기록이 없는 사유는 조회 오류가 아니라 그 차량이 실제로 운행하지 않았다는 사실이며, 이탈 기록은 실제 운행 차량 TR-GM-02에 남아 있다.",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "4. 구간 요약",
+    "cell": "A11",
+    "value": "이 표의 세 구간은 모두 계약상 '인도' 이후다. 「위탁 계약서(갯마을 조합 ↔ 교동 조합)」 제2조2호의 인도는 갯마을 출하장에서 적재가 완료된 때 (06-24 05:30 집하 구간의 시작점)이고, 06:30~18:00 운송 구간의 -8.6℃ 이탈은 인도 이후에 발생한 것이라 품질 책임은 갑(교동) 구간이다(「위탁 계약서(갯마을 조합 ↔ 교동 조합)」 제7조②·⑤). 18:00의 간선 인계를 '인도'로 읽으면 이탈이 인도 전이 되어 책임 구간을 갯마을로 잘못 판단하게 된다.",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A1",
+    "value": "5. 이탈 구간 상세 — 30분 간격 발췌",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A3",
+    "value": "운송 구간 전체(23행) 중 이탈 판정이 만들어진 구간만 옮긴다.",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A5",
+    "value": "기록 시각",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B5",
+    "value": "온도",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C5",
+    "value": "플래그",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D5",
+    "value": "기록 방식",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E5",
+    "value": "비고",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A6",
+    "value": "06-24 11:00",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B6",
+    "value": -19.1,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C6",
+    "value": "정상",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D6",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A7",
+    "value": "06-24 11:30",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B7",
+    "value": -16.8,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C7",
+    "value": "주의",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D7",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E7",
+    "value": "상승 시작",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A8",
+    "value": "06-24 12:00",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B8",
+    "value": -13.2,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C8",
+    "value": "이탈 후보",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D8",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E8",
+    "value": "-15℃ 초과 진입",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A9",
+    "value": "06-24 12:30",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B9",
+    "value": -10.5,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C9",
+    "value": "이탈",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D9",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E9",
+    "value": "초과 30분 지속 → 이탈 확정",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A10",
+    "value": "06-24 13:00",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B10",
+    "value": -8.6,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C10",
+    "value": "이탈",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D10",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E10",
+    "value": "최고점",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A11",
+    "value": "06-24 13:30",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B11",
+    "value": -9.4,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C11",
+    "value": "이탈",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D11",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A12",
+    "value": "06-24 14:00",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B12",
+    "value": -12.7,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C12",
+    "value": "이탈",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D12",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E12",
+    "value": "하강 시작",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A13",
+    "value": "06-24 14:30",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B13",
+    "value": -16.1,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C13",
+    "value": "주의",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D13",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A14",
+    "value": "06-24 15:00",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B14",
+    "value": -18.3,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C14",
+    "value": "정상",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D14",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E14",
+    "value": "-18℃ 이하 복귀 → 재냉동 시점",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A15",
+    "value": "06-24 15:30",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "B15",
+    "value": -19,
+    "type": "n",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "C15",
+    "value": "정상",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "D15",
+    "value": "자동",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "E15",
+    "value": "이후 간선 인계까지 정상 유지",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A17",
+    "value": "이탈 지속 2~3시간 · 최고 -8.6℃ · 복귀 확인 → §2의 판정 규약대로 해동 후 재냉동이다. 인계 시점 품온이 -18.6℃였다는 사실은 이탈 이력의 반증이 아니다.",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "5. 이탈 구간 상세",
+    "cell": "A19",
+    "value": "이탈 길이는 한 값으로 확정되지 않는다. -15℃를 넘은 기록점은 12:00~14:00의 5행이라 기록점만 세면 2시간인데, 넘어선 시각은 11:30(-16.8)과 12:00(-13.2) 사이, 내려온 시각은 14:00(-12.7)과 14:30(-16.1) 사이여서 표본 간격(30분)만큼 양쪽이 열려 최대 3시간이다. 30분 자동 기록계로는 경계 시각이 특정되지 않는다. 11:30·14:30 두 점은 주의이므로 이탈 길이에 넣지 않는다.",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "A1",
+    "value": "6. 연결 기록의 결번",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "A3",
+    "value": "무엇이 없나",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "B3",
+    "value": "결과",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "A4",
+    "value": "집하·운송 구간 로그의 주문 건 연결",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "B4",
+    "value": "주문 조회만으로는 이상이 보이지 않는다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "A5",
+    "value": "냉동장치 이상 사실의 공식 기록 등재",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "B5",
+    "value": "담당자가 보낸 메시지(「업무 인계·부재 기록(구방만 → 박민아)」 §5)에만 남았고 배송 기록에는 없다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "A6",
+    "value": "공식 기록의 담당·차량이 실제와 다르다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "B6",
+    "value": "그 차량으로 조회하면 빈 결과다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "A7",
+    "value": "이탈 발생 시 자동 알림",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "6. 연결 기록의 결번",
+    "cell": "B7",
+    "value": "규약이 없다 (§2)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "A1",
+    "value": "7. 조회 기준",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "B3",
+    "value": "값",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "A4",
+    "value": "진입 경로",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "B4",
+    "value": "배송건 조회번호(주문번호 또는 로트번호). 차량·기사 이름은 검색 기준가 아니다",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "A5",
+    "value": "빈 결과의 두 원인",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "B5",
+    "value": "⑴ 그 구간에 로그가 없다 ⑵ 조회 기준가 틀렸다. 공식 기록의 담당·차량이 실제와 다를 수 있다(§4·§6)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "A6",
+    "value": "로그가 없는 품목",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  },
+  {
+    "sheet": "7. 조회 기준",
+    "cell": "B6",
+    "value": "상온 농산에는 이 로그가 애초에 없다 (「로트·출고 검사 기록(당도·중량·온도·로트번호)」 §3)",
+    "type": "s",
+    "format": "General",
+    "comment": null
+  }
+]

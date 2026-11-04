@@ -1,0 +1,16 @@
+{
+  "tc": "L-11",
+  "path": "/api/escalations",
+  "body": {
+    "lane": "LANE2_HANDOFF",
+    "reason": "주문 100100016, 로트 KD-WTM-370624-03. 이번 곰팡이 신고와 기존 신고를 합한 복수 신고, 로트 조사 기록 부재 확인. 안전 확인 및 판매자·공급 확인 요청. 원인과 책임 미확정."
+  },
+  "attemptedAt": "2026-10-31T04:48:36.863Z",
+  "state": "submitted",
+  "httpStatus": 200,
+  "receipt": {
+    "escalation_id": "ESC-18462",
+    "request_status": "SUBMITTED",
+    "requested_at": "2037-06-30T12:00:00+09:00"
+  }
+}

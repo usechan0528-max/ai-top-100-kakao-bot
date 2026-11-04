@@ -1,0 +1,18 @@
+{
+  "tc": "L-11",
+  "path": "/api/refunds",
+  "body": {
+    "order_no": "100100016",
+    "amount": 34900,
+    "reason": "공개 L-11: 곰팡이 하자, 고객이 선택한 전액환불 신청"
+  },
+  "attemptedAt": "2026-10-31T04:48:36.679Z",
+  "state": "submitted",
+  "httpStatus": 200,
+  "receipt": {
+    "refund_id": "RFD-100100016-01",
+    "order_no": "100100016",
+    "request_status": "SUBMITTED",
+    "requested_at": "2037-06-30T12:00:00+09:00"
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "E48-01.png",
+    "bytes": 3547838,
+    "size": [
+      2896,
+      2172
+    ],
+    "sha256": "1e41aea1d9eedfe9176a8aa12997ab62b0b226a27f8f7e32ab99f0dbb19c9f94"
+  },
+  {
+    "file": "E48-02.png",
+    "bytes": 3644007,
+    "size": [
+      2896,
+      2172
+    ],
+    "sha256": "22696390c5271e06e880e38312d6c0dbd103c99dc99334c6709d465d18d2a50d"
+  },
+  {
+    "file": "E48-03.png",
+    "bytes": 3768441,
+    "size": [
+      2896,
+      2172
+    ],
+    "sha256": "5b50a3aa5df65784c89bc7b414bbeba03281bdc2929227d91f74d84cae761f58"
+  },
+  {
+    "file": "E48-04.png",
+    "bytes": 3681883,
+    "size": [
+      2896,
+      2172
+    ],
+    "sha256": "836648128fa33190a0bb2a0258cffc92a1518cce35af1ae182b7fe6275c3e2d0"
+  },
+  {
+    "file": "E48-05.png",
+    "bytes": 3552580,
+    "size": [
+      2896,
+      2172
+    ],
+    "sha256": "09b09faa50903024c19960c6ad49de610a5bc33d2e96db378d35698e4ae787c2"
+  },
+  {
+    "file": "E48-06.png",
+    "bytes": 3312296,
+    "size": [
+      2896,
+      2172
+    ],
+    "sha256": "a023fd96cde3f9deeb55a2a9bf4e36f8c09f9d2e18cc74cd033196e44f9202ed"
+  }
+]

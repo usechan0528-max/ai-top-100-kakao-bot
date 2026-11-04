@@ -1,0 +1,19 @@
+상품·로트·조사·신고집계·프로모션 읽기 (2026-10-31)
+근거: actions.json API01/03/04/06/20 및 PUBLIC_TC_GUIDE L11/L47/R05/L60. 공개 사례의 대상값·금액·TC를 하드코딩하지 않는다.
+export createCatalogQualityActions({token,testCaseId,fetcher,beforeCall}) -> read_product({sku}), read_lot({lot_id}), read_lot_investigation({lot_id}), list_lot_claims({lot_id}), read_promotion({code}). 모두 read이며 인자는 지정 키1개만, 추가필드는 거절한다. token/TC는 서버 closure이며 모델 인자로 바꾸지 못한다.
+조회 경로는 각각 GET /api/products/{sku}, /api/lots/{lot_id}, /api/lots/{lot_id}/investigation, /api/tickets?lot_id=, /api/promos/{code}. 고정호스트·manual redirect·beforeCall 매조회·signal 전파·64KiB UTF8상한·배열200개·스키마required/추가필드/타입/date/enum·반환 식별자 일치를 검사한다. 재시도·쓰기·실제 API 호출·배포 없음.
+성공은 status ok + product/lot/investigation/promotion 객체. 조사 finding/liability는 disclosure_approved===true인 경우만 모델 전달한다. 비공개 조사상태/증상·날짜·공개승인 flag는 내부 판단에 활용하되 외부 공식 입장이나 원인확정으로 확대하지 않는다.
+API06은 고객 원문 content·member_id·handler·ticket_id를 모델에 반환하지 않는다. status ok/empty + claims:{lot_id,ticketCount,distinctReporterCount,symptomMentionCounts:{mold,blackHeart},interpretation} 비식별 집계만 반환한다. 곰팡이/MOLD 및 흑심/BLACK_HEART의 문자 언급을 세며 긍정·부정·확정 여부를 분류한 것이 아니다. 중복 ticket_id/다른 lot 행은 전체 오류다. 회원 수는 독립 사고/확정 피해자 수가 아니다. 구체 주장 분석이 필요하면 별도 승인된 비식별 절차가 필요하다.
+404는 경로오류와 구분 불가 상태를 유지하며 조사기록 없음으로 곧바로 바꾸지 않는다. 상품 현재가격은 정상가 변경이력 자체가 아니다. 프로모션 조회는 발급 결과가 아니며 기간/대상/중복유형만 확인한다. 로트 조회는 특정 주문 귀속을 인증하지 않으며 고객 주문과 로트 연결은 주문·배송 경로의 확인이 별도로 필요하다.
+테스트12개 통과: 5경로/신뢰헤더·조회제약·값보존·공개승인·비식별집계·스키마/타겟불일치·HTTP/크기·취소/예산. 실제 모델 종단정답·외부연결·부모 action-context 통합은 이 검증 범위 밖이다.
+
+### API04 빈404 조건 해석 후속 — 2026-10-31
+
+공식 actions.json의 API04 404 설명은 요청 항목 부재이며 미등록 경로/메서드도 같은404라고 명시한다. 로컬 구현은 같은 factory/TC에서 해당 lot_id의 최신 read_lot이 성공했고, 고정 공식 GET의 실제 빈본문404이며, 응답 URL이 제공된 경우 요청 경로와 일치하고 redirect가 아닐 때만 {status:'empty',investigation:null,lot_id,notice}를 반환한다. notice는 “확인한 로트에 조사 항목이 반환되지 않았습니다. 원인·안전 확정이 아닙니다.”이다.
+
+로트 재조회 전에 증거를 폐기하며 실패/중단 후 재사용하지 않는다. 동시 요청에서 오래된 성공이 최신 실패를 덮거나, 조사 조회 중 바뀐 증거를 사용하지 않는다. 다른 lot/새 factory/성공선조회 없음/본문있는404(JSON null 포함)/다른 응답경로에서는 기존 not_found_or_route_error를 유지한다. 비정상본문/전송오류는 해당 안전 오류로 유지한다. 원격 서버 내부 라우트 장애를 완전히 배제한 보장은 없으며 응답 미반환을 과거 조사 미개시·원인/책임/안전 확정으로 확대하지 않는다. L11은 이 조건부 결과와 다른 조회/정책근거를 함께 이관에 사용한다.
+
+자체 정상/실패갱신/다른lot/새factory/본문/경로/동시갱신 테스트3개 추가, 조회 자체15+기존독립8=23개 모의검증 통과. 새도구 런타임 등록·실제API·배포는 이 작업에서 수행하지 않았다. 앞선 일반404 해석 금지는 위 조건을 충족하지 않는 경우에 계속 적용한다.
+
+
+API04 추가 독립검증 완료: 기존8+신규3=11개 독립검증 통과. 자체15개와 합계26개 모의검증이다. pending404 중 로트 재조회 성공/실패·중간 신규근거의 소급적용 금지·실제빈본문/JSONnull/다른URL/redirect 구분을 검증했다. 앞선23개는 추가 독립검증 전 기록이며 실제API/배포 결과가 아니다.

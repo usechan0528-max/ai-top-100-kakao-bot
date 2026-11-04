@@ -1,0 +1,11 @@
+{
+  "caseId": "L-03",
+  "http": 200,
+  "order_no": "100100003",
+  "status": "PAID",
+  "receipt": "ACR-100100003-01",
+  "storedInOrder": false,
+  "change_request_ids": [],
+  "method": "GET07 after actual model/Kakao request",
+  "checkedAt": "2026-10-31T04:51:12.397Z"
+}

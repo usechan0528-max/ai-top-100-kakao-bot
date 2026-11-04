@@ -1,0 +1,13 @@
+{
+  "docx_text_runs": 155,
+  "runs_not_found_in_pdf": [],
+  "xml_text_parts": [
+    "word/document.xml",
+    "word/footer1.xml"
+  ],
+  "media": [
+    "word/media/image1.jpg",
+    "word/media/image2.jpg",
+    "word/media/image3.jpg"
+  ]
+}

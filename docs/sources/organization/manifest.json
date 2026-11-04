@@ -1,0 +1,19 @@
+{
+  "archive": "f0MemPRxvegLntSUu5CQHg.zip",
+  "files": [
+    {
+      "name": "조직관계도.pdf",
+      "bytes": 50698,
+      "sha256": "82fad635ee93ca7e0250a812b5bf5861c3bc742147b41bccb1c55d49eda1850a"
+    },
+    {
+      "name": "조직관계도.png",
+      "bytes": 1182657,
+      "sha256": "cdda34ebba0613ab3f570f1bf1686d2d67fe2e0cbc691ddc186fad9adc1000d0"
+    }
+  ],
+  "pdf_pages": 4,
+  "archive_bytes_unchanged": true,
+  "scenario_date": "2037-06-30",
+  "method": "PDF direct text extraction plus full-page visual review; PNG visual transcription"
+}

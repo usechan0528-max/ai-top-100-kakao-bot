@@ -1,0 +1,14 @@
+주문·결제 읽기 액션 구현 범위 (2026-10-31)
+근거: docs/sources/action-api/actions.json API-07/08/17/18 및 Orders/Payments 스키마.
+src/order-payment-actions.mjs createOrderPaymentActions는 신뢰된 token/testCaseId/memberId 구성으로만 네 read 액션을 생성한다. 누락/부적합 구성은 빈 registry다. 서버는 모델·고객 진술을 memberId 인증 결과로 사용해서는 안 된다.
+read_order({order_no}), list_my_orders({}), read_payment({approval_no}), list_order_payments({order_no}).
+반환은 status와 order/orders/payment/payments의 안전 projection이다. 원문 오류 메시지는 반환하지 않는다. 주소·수령인·회원ID·지급자이름·카드뒤4자리 제외. 실제 업무 완료/환불/변경/이관 기능은 없다.
+주문 조회 후 회원 일치 확인, 결제는 연결 주문의 API07 귀속을 별도 조회한다. 미연결(order_no=null) 결제는 소유확인 근거가 없어 forbidden. 유실 주문 대사·카드뒤4자리 대사는 이 모듈로 완료할 수 없으며 별도 인증/서버 대조 설계가 필요하다.
+호스트 고정·GET·redirect manual·TC헤더 closure 고정, 식별자 제한과 URL 인코딩, 인자 추가필드 거절, 응답 전체 required 타입/추가필드 검사,64KiB 본문·배열200개·문자1024 한도, signal 전파, beforeCall(signal) 매 요청 호출. 이 상한은 내부 방침이며 공식 스키마 상한이 아니다. 초과/새필드는 invalid_response로 닫힌다. 소유권 캐시와 자동 재시도는 없다.
+검색 empty와404/경로오류·invalid_test_case·429 누적/시간창을 분리한다. 시간창 retryAfterSeconds는 안전한 정수만 전달하며 모듈 내 대기하지 않는다. 모든 오류는 고정 status로 반환, abort는 상위 deadline에 전파한다.
+상태: 로컬 구현, 실제 서버·본인확인·배포 검증 미완료. 통합 테스트는 검증 담당이 별도 수행한다. 공통 API 규약과 상세 스키마는 확보됐으며 인증된 memberId 매핑이 완료됐다는 의미는 아니다.
+
+API-11 배송 검색 추가 (2026-10-31 후속)
+현재 registry는 위4종과 list_order_shipments({order_no})까지 읽기5종이다. API07로 주문 귀속을 먼저 확인하고 GET /api/shipments?order_no=를 호출한다. 모든 반환행 order_no가 요청과 같아야 하며 한 건이라도 불일치/잘못된 스키마면 전체 invalid_response다. 결과는 {status:'ok',shipments:[...]} 또는 {status:'empty',shipments:[]}다. 배송 데이터의 delivered_location은 개인정보 노출을 줄이기 위해 반환하지 않는다. 고객 주소/수령인명은 기존 주문 projection에서도 제외된다.
+Shipments의 required 전체, 추가필드 금지, READY/IN_TRANSIT/DELIVERED/RETURNED enum, nullable 시각·문자, 품목 sku/qty/lot_id를 검증한다. 공통 date/dateTime은 실제 날짜·시간 범위와 ISO 시간대 표기를 검증하도록 보강했다. 조회결과는 untrusted tool data로 처리하며 DELIVERED를 실제 고객 수령의 확정으로 해석하지 않는다.
+Worker/store/배포는 다른 chat 담당이며 이번 배송 확장에서 수정하지 않았다.

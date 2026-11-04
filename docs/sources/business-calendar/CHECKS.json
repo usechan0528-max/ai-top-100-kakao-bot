@@ -1,0 +1,119 @@
+{
+  "transcription_cells_equal": 1493,
+  "independent_xml_cells": [
+    22,
+    13,
+    35,
+    40,
+    39,
+    101,
+    17,
+    1226
+  ],
+  "formula_count": 0,
+  "extra_parts": [],
+  "daily_rows": 305,
+  "coverage": [
+    "2037-03-02",
+    "2037-12-31"
+  ],
+  "monthly_business_shipping": {
+    "03": [
+      22,
+      13
+    ],
+    "04": [
+      22,
+      13
+    ],
+    "05": [
+      19,
+      11
+    ],
+    "06": [
+      22,
+      13
+    ],
+    "07": [
+      23,
+      14
+    ],
+    "08": [
+      20,
+      12
+    ],
+    "09": [
+      19,
+      11
+    ],
+    "10": [
+      20,
+      11
+    ],
+    "11": [
+      21,
+      13
+    ],
+    "12": [
+      22,
+      12
+    ]
+  },
+  "rule_or_monthly_issues": [],
+  "forward_examples": [
+    {
+      "received": "07-20",
+      "base": "2037-07-20",
+      "deadline": "2037-07-23 24:00"
+    },
+    {
+      "received": "07-24",
+      "base": "2037-07-24",
+      "deadline": "2037-07-29 24:00"
+    },
+    {
+      "received": "08-14",
+      "base": "2037-08-14",
+      "deadline": "2037-08-20 24:00"
+    },
+    {
+      "received": "09-22",
+      "base": "2037-09-22",
+      "deadline": "2037-09-30 24:00"
+    },
+    {
+      "received": "07-25",
+      "base": "2037-07-27",
+      "deadline": "2037-07-30 24:00"
+    },
+    {
+      "received": "09-24",
+      "base": "2037-09-28",
+      "deadline": "2037-10-01 24:00"
+    }
+  ],
+  "cutoff_examples": [
+    {
+      "payment": "07-29",
+      "cutoff": "2037-07-24 24:00"
+    },
+    {
+      "payment": "08-19",
+      "cutoff": "2037-08-13 24:00"
+    },
+    {
+      "payment": "09-30",
+      "cutoff": "2037-09-22 24:00"
+    },
+    {
+      "payment": "10-07",
+      "cutoff": "2037-10-01 24:00"
+    },
+    {
+      "payment": "12-28",
+      "cutoff": "2037-12-22 24:00"
+    }
+  ],
+  "gregorian_weekday_disagreements": 0,
+  "notice": "Use supplied scenario weekdays; do not use real 2037 weekdays. Derived holiday-receipt examples are verification calculations, not quotations."
+}

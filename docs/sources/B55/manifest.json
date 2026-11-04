@@ -1,0 +1,20 @@
+{
+  "received": "2026-10-31",
+  "source_date": "2037-06-30",
+  "archive": "mD9Z9ob30jaT111iWMF4fg.zip",
+  "archive_sha256": "2559B422F63B9A5F6D2F8D1E51E5169BC301FD7A8B1D5C59634BDAF8E1F655D0",
+  "files": [
+    {
+      "name": "B55-01.png",
+      "bytes": 6405684,
+      "sha256": "C946E9B226BA025C9E827569A732BDB93DE465A7F530AA427E70E17D4C563722",
+      "status": "full visual transcription and comparison"
+    },
+    {
+      "name": "B55-02.png",
+      "bytes": 6492783,
+      "sha256": "4DF518A55E200E748E38EA50AC405FB07613AA90807D0825A5D449D0EF70F0E7",
+      "status": "full visual transcription and comparison"
+    }
+  ]
+}

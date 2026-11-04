@@ -1,0 +1,141 @@
+{
+  "source_url": "https://t1.kakaocdn.net/aitop100/aitop100/dist/wvjSeGJRPI1_F47BlDcEDw.zip",
+  "received": "2026-10-31",
+  "files": [
+    {
+      "name": "source.zip",
+      "bytes": 20383,
+      "sha256": "b0a352ef45011c72f901caa60f1f9f88f4720baa4e52db783840d2c61f4e8fe9"
+    },
+    {
+      "name": "영업일공휴일달력.xlsx",
+      "bytes": 22655,
+      "sha256": "0bcd43e38fb2aed047319200e2682b302b0670a7ddce0e3498147c5156c89390"
+    }
+  ],
+  "sheets": [
+    {
+      "sheet": "개요",
+      "range": "A1:B15",
+      "nonempty": 22,
+      "state": "visible",
+      "merged": [],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "sheet": "2. 정의",
+      "range": "A1:B8",
+      "nonempty": 13,
+      "state": "visible",
+      "merged": [],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "sheet": "3. 기간 단위",
+      "range": "A1:F14",
+      "nonempty": 35,
+      "state": "visible",
+      "merged": [
+        "A3:F3",
+        "A14:F14"
+      ],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "sheet": "4. 영업일 계산 규칙",
+      "range": "A1:F18",
+      "nonempty": 40,
+      "state": "visible",
+      "merged": [
+        "A18:F18"
+      ],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "sheet": "5. 컷오프 역산",
+      "range": "A1:F12",
+      "nonempty": 39,
+      "state": "visible",
+      "merged": [
+        "A3:F3",
+        "A12:F12"
+      ],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "sheet": "6. 2037년 달력 (개장 이후)",
+      "range": "A1:E27",
+      "nonempty": 101,
+      "state": "visible",
+      "merged": [],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "sheet": "7. 연휴 처리",
+      "range": "A1:B10",
+      "nonempty": 17,
+      "state": "visible",
+      "merged": [],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    },
+    {
+      "sheet": "8. 날짜별 영업·출고 달력",
+      "range": "A1:F310",
+      "nonempty": 1226,
+      "state": "visible",
+      "merged": [
+        "A3:F3"
+      ],
+      "hidden_rows": [],
+      "hidden_columns": [],
+      "comments": [],
+      "hyperlinks": [],
+      "tables": [],
+      "images": 0,
+      "charts": 0
+    }
+  ],
+  "total_nonempty_cells": 1493
+}

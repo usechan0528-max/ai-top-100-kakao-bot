@@ -1,0 +1,566 @@
+{
+  "controls_links_graphics": [
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "skip"
+        ],
+        "href": "#main"
+      },
+      "text": "본문 바로가기"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "brand"
+        ],
+        "href": "#top"
+      },
+      "text": "교 교동마을 산지직송"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "상품 소개",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "상품 소개 · 잠김 · 안내 보기"
+      },
+      "text": "상품 소개"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "농가 이야기",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "농가 이야기 · 잠김 · 안내 보기"
+      },
+      "text": "농가 이야기"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "조합원 규정",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "조합원 규정 · 잠김 · 안내 보기"
+      },
+      "text": "조합원 규정"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#artifact-nav",
+        "class": [
+          "current-menu"
+        ],
+        "aria-current": "location"
+      },
+      "text": "이용 안내"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "사업자정보",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "사업자정보 · 잠김 · 안내 보기"
+      },
+      "text": "사업자정보"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "class": [
+          "print"
+        ],
+        "type": "button",
+        "onclick": "window.print()"
+      },
+      "text": "문서 인쇄 ↗"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "판매·환불 규정",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "판매·환불 규정 · 잠김 · 안내 보기"
+      },
+      "text": "판매·환불 규정"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "current-menu"
+        ],
+        "href": "#main",
+        "aria-current": "page"
+      },
+      "text": "정기배송 약관"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "개인정보 처리방침",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "개인정보 처리방침 · 잠김 · 안내 보기"
+      },
+      "text": "개인정보 처리방침"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "피싱·사칭 주의",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "피싱·사칭 주의 · 잠김 · 안내 보기"
+      },
+      "text": "피싱·사칭 주의"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "증빙 발행 안내",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "증빙 발행 안내 · 잠김 · 안내 보기"
+      },
+      "text": "증빙 발행 안내"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "산지 픽업 안내",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "산지 픽업 안내 · 잠김 · 안내 보기"
+      },
+      "text": "산지 픽업 안내"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-1"
+      },
+      "text": "01 제1장 총칙"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-2"
+      },
+      "text": "02 제2장 컷오프"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-3"
+      },
+      "text": "03 제3장 스킵"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-4"
+      },
+      "text": "04 제4장 해지"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-5"
+      },
+      "text": "05 제5장 회차 변경"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-6"
+      },
+      "text": "06 제6장 상담 처리 절차"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "back"
+        ],
+        "href": "#top"
+      },
+      "text": "↑ 맨 위로"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#top"
+      },
+      "text": "맨 위로 ↑"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "class": [
+          "dialog-confirm"
+        ],
+        "autofocus": ""
+      },
+      "text": "확인"
+    }
+  ],
+  "tables": [
+    [
+      [
+        {
+          "text": "언제",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "무엇을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수단",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "구독 개시 시 (계약 내용)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "주기·결제일·컷오프의 계산 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정기배송 신청 화면 및 신청 완료 안내",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "각 회차 컷오프 도래 2영업일 전까지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "그 회차의 결제 예정일과 컷오프 일시(날짜·시각)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "구독·주문 내역 화면 표시를 기본으로 하고, 고객이 등록한 알림 수단이 있으면 함께 발송",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "컷오프 경과 후",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "그 회차가 확정되었다는 사실과 다음 회차의 컷오프 일시",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "대안",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조건",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "수령일 조정",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "집하 전 (「택배사 계약서」 제3조)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "배송지 변경",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "집하 전 (「택배사 계약서」 제3조)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "이번 회차 취소·환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "출고 준비 전에 한하여 가능",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "다음 회차 스킵 예약",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상시",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "요청",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "컷오프 전",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "컷오프 이후",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "스킵",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이번 회차 미결제·미발송",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "다음 회차부터. 이번 회차는 제6조② 대안 안내",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "해지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이번 회차부터 종료, 남은 회차 전액환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "다음 회차부터 종료. 이번 회차는 제6조② 대안 안내",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "품목·수량·주기 변경",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이번 회차에 반영",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "다음 회차에 반영",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ]
+  ]
+}

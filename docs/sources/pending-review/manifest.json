@@ -1,0 +1,184 @@
+[
+  {
+    "file": "5qStcfJN45yTNkUI8SYD0w/로트원장.html",
+    "sha256": "f63d610b21a166a30e8b0c9e3659f9fa6d136eff02c44175f651ebc17105eb62",
+    "units": 827,
+    "transcript": "docs\\sources\\pending-review\\로트원장.html_TRANSCRIPT.md",
+    "visual": "전체 텍스트·표·컨트롤 구조 검수, 브라우저 시각 대조 미수행"
+  },
+  {
+    "file": "5qStcfJN45yTNkUI8SYD0w/출고검사성적서_팩스사본_KD-HGL-370624-01.pdf",
+    "sha256": "f6fd7f9ffac2a710f8f3ba72d7f3ac8cad78d1a4bd63e4d9144d26199e9d5782",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\출고검사성적서_팩스사본_KD-HGL-370624-01.pdf_TRANSCRIPT.md",
+    "visual": "전 페이지 직접 시각 대조 완료 (17쪽 전체)"
+  },
+  {
+    "file": "_uHi0aiIW__PSHbihlOOmQ/농산시즌캘린더.xlsx",
+    "sha256": "adfe391cc21af1f9c835ca0b62eee6d5de5b9e5d8789bd1a769f12f11e415148",
+    "units": 374,
+    "transcript": "docs\\sources\\pending-review\\농산시즌캘린더.xlsx_TRANSCRIPT.md",
+    "visual": "전체 셀·시트·구조 검수, 원본 XLSX 전체 시각 렌더 미수행; 시즌 사진5장 범위 대조"
+  },
+  {
+    "file": "_uHi0aiIW__PSHbihlOOmQ/모니터촬영/C23_01.png",
+    "sha256": "1971936fd16cdaf0dcb3154098108ba7b32b282dbdfc689fb0285d23cf5957de",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\C23_01.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "_uHi0aiIW__PSHbihlOOmQ/모니터촬영/C23_02.png",
+    "sha256": "026946dc387b3607e4bcc42effc41a4fcd5c9c5e3d7be9e7748583da113620e7",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\C23_02.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "_uHi0aiIW__PSHbihlOOmQ/모니터촬영/C23_03.png",
+    "sha256": "b07359859e704f11dbb83e93bd70a2fc22af343d88f1d9c5f8aff75aa7848b14",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\C23_03.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "_uHi0aiIW__PSHbihlOOmQ/모니터촬영/C23_04.png",
+    "sha256": "c03cc584710d69cdf2af94d41cce725f1a168b19d9367648fdb2a3a9f2ccef9c",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\C23_04.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "_uHi0aiIW__PSHbihlOOmQ/모니터촬영/C23_05.png",
+    "sha256": "0d477be614f11dd602762fbb6aedca84778f59c3b655844b82756993eddc90e1",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\C23_05.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "B-ulVcMRgNHbtfLjVugzvw/프로모션원장.html",
+    "sha256": "43b6c5826ae80f3890e4e39388957c3250dcda2d78a638a3cfc43a20354a4f30",
+    "units": 193,
+    "transcript": "docs\\sources\\pending-review\\프로모션원장.html_TRANSCRIPT.md",
+    "visual": "전체 텍스트·표·컨트롤 구조 검수, 브라우저 시각 대조 미수행"
+  },
+  {
+    "file": "B-ulVcMRgNHbtfLjVugzvw/할인중복_보상쿠폰_기준.pdf",
+    "sha256": "7e009f70c2d69df7913b1883790ecc1ac6d3bc0e0262eb179069446074977c0f",
+    "units": 2,
+    "transcript": "docs\\sources\\pending-review\\할인중복_보상쿠폰_기준.pdf_TRANSCRIPT.md",
+    "visual": "전 페이지 직접 시각 대조 완료 (17쪽 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_01_mango-live.png",
+    "sha256": "488daf18fcf4ed10794d14094f4c5a26cda1c5fa123c32b54213ca1bfbf8f19e",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\D41_01_mango-live.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_02_recruit-post.png",
+    "sha256": "e95a35222966563c0d45e47bc3de1105353d965da5502c4d0638c506f3709326",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\D41_02_recruit-post.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_03_watermelon-live.png",
+    "sha256": "8878e4677cf63e7f7a26d3a29b1bdb41c4c53ab281777fef42033c8128f71a98",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\D41_03_watermelon-live.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_04_mango-close.png",
+    "sha256": "0a73754e2ca3f47ac9639fdac20a075e45e5133969dd602fb547540906efa234",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\D41_04_mango-close.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_05_hwachae-live.png",
+    "sha256": "8c48871758c69dd5a4258c799a68dacbc1e43429b413f4b3db31fd992464a392",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\D41_05_hwachae-live.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_06_potato-live.png",
+    "sha256": "0745d6a475d2ec5177278f0a7c022524e6b3067c3277d5856fc065b812592715",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\D41_06_potato-live.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_07_potato-close.png",
+    "sha256": "d6274625d0879d27d2ac9ca0c11f27ad9aadd8e63c7ea1815b14727c857ae183",
+    "units": 1,
+    "transcript": "docs\\sources\\pending-review\\D41_07_potato-close.png_TRANSCRIPT.md",
+    "visual": "개별 이미지 직접 판독·전사 완료 (12장 전체)"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_transcript.docx",
+    "sha256": "d824afcc68e2fdcdbb0f2f539f7d1844c3a101aecb4550cc762b99a35a19b4e8",
+    "units": 24,
+    "transcript": "docs\\sources\\pending-review\\D41_transcript.docx_TRANSCRIPT.md",
+    "visual": "XML 전체 텍스트 추출·PDF 대조 완료, 독립 DOCX 페이지 렌더 미완료"
+  },
+  {
+    "file": "Hf5FZuHm8b-vlFK3j5L2Mw/D41_transcript.pdf",
+    "sha256": "a2aaa6a63ec54079ff28ec6be33dbc89c130ecbf0dcda7bd0049daa712091c39",
+    "units": 2,
+    "transcript": "docs\\sources\\pending-review\\D41_transcript.pdf_TRANSCRIPT.md",
+    "visual": "전 페이지 직접 시각 대조 완료 (17쪽 전체)"
+  },
+  {
+    "file": "Hj1zGIAFSFLkJv-2_0Womg.xlsx",
+    "sha256": "ca29511dd07bb4d96d5c022874d0135da26ad9e6623c864b16750f79273e5e05",
+    "units": 180,
+    "transcript": "docs\\sources\\pending-review\\Hj1zGIAFSFLkJv-2_0Womg.xlsx_TRANSCRIPT.md",
+    "visual": "전체 셀·시트·구조 검수, 원본 XLSX 전체 시각 렌더 미수행; 시즌 사진5장 범위 대조"
+  },
+  {
+    "file": "Keze5-ihBAYJhBQV_i-aEw.html",
+    "sha256": "166ac00daac34b4fdcc7eee1bff112783f1647d6a55406109e7d06462219b799",
+    "units": 228,
+    "transcript": "docs\\sources\\pending-review\\Keze5-ihBAYJhBQV_i-aEw.html_TRANSCRIPT.md",
+    "visual": "전체 텍스트·표·컨트롤 구조 검수, 브라우저 시각 대조 미수행"
+  },
+  {
+    "file": "l2R00nTdGBHA3FP2QVxKfg.pdf",
+    "sha256": "08a7719147be71b5031456c9565fc58f350e2152216274a04b1c4e585fe7dd6c",
+    "units": 3,
+    "transcript": "docs\\sources\\pending-review\\l2R00nTdGBHA3FP2QVxKfg.pdf_TRANSCRIPT.md",
+    "visual": "전 페이지 직접 시각 대조 완료 (17쪽 전체)"
+  },
+  {
+    "file": "m1SLEboPRfEAY8Y90ZFzMQ.html",
+    "sha256": "7c0cdc90009756d34572f2c7797613c892963367fed755f2c34b723098ef604e",
+    "units": 154,
+    "transcript": "docs\\sources\\pending-review\\m1SLEboPRfEAY8Y90ZFzMQ.html_TRANSCRIPT.md",
+    "visual": "전체 텍스트·표·컨트롤 구조 검수, 브라우저 시각 대조 미수행"
+  },
+  {
+    "file": "p3fMCqFSsgGXunwjQpwUJg.pdf",
+    "sha256": "38fba2a3afa8d4e4920a347e684d682e3058747407a0ddcd3540d1b2ead1cc9a",
+    "units": 4,
+    "transcript": "docs\\sources\\pending-review\\p3fMCqFSsgGXunwjQpwUJg.pdf_TRANSCRIPT.md",
+    "visual": "전 페이지 직접 시각 대조 완료 (17쪽 전체)"
+  },
+  {
+    "file": "VPaqTY6ACayEeUct0aT6aw.pdf",
+    "sha256": "b9b4ad7ef4a3a80822240a991e77940f2ea6007be3c8dd410a3df7de8fd403ab",
+    "units": 5,
+    "transcript": "docs\\sources\\pending-review\\VPaqTY6ACayEeUct0aT6aw.pdf_TRANSCRIPT.md",
+    "visual": "전 페이지 직접 시각 대조 완료 (17쪽 전체)"
+  },
+  {
+    "file": "Yku9ZG2eH3PsliWC0108RA.html",
+    "sha256": "e9783f5ec544dd498ebf77cf3709d63bfb871b0481e23e2b4e55b9abc22b8462",
+    "units": 1010,
+    "transcript": "docs\\sources\\pending-review\\Yku9ZG2eH3PsliWC0108RA.html_TRANSCRIPT.md",
+    "visual": "전체 텍스트·표·컨트롤 구조 검수, 브라우저 시각 대조 미수행"
+  }
+]

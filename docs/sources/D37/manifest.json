@@ -1,0 +1,34 @@
+{
+  "archive": "AQ_znwGwujW6X3lemUNJxw.zip",
+  "received_date": "2026-10-31",
+  "scenario_date": "2037-06-30",
+  "files": [
+    {
+      "name": "D37_leaflet.docx",
+      "bytes": 8563925,
+      "sha256": "1af11867dd247380c39633b9095076bfa6db43c6ba7c649ac0fdd2d45ca45fa6"
+    },
+    {
+      "name": "D37_leaflet.pdf",
+      "bytes": 1172534,
+      "sha256": "94810663f432ffa92e0c349bfda7e767f4b87d409c3ae6c481788bc74da82122"
+    },
+    {
+      "name": "D37_membership.html",
+      "bytes": 9990,
+      "sha256": "6d9bb77c5aa7fa047debfd14af8eb16755bffe51ebf61f8a5b370b96d350eaba"
+    },
+    {
+      "name": "PH-D37-cover.jpg",
+      "bytes": 8559609,
+      "sha256": "0bfcf95a56c15c02586c36b852562261b41328d9695bcf655a8d0feb8cdce260"
+    }
+  ],
+  "pdf_pages": 3,
+  "docx_tables": 2,
+  "docx_paragraphs_including_empty": 40,
+  "docx_text_not_found_in_pdf_ignoring_whitespace": [],
+  "docx_embedded_image_identical_to_supplied_jpg": true,
+  "docx_other_content_parts": [],
+  "html_content_blocks": 42
+}

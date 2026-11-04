@@ -1,0 +1,5180 @@
+{
+  "controls_links_graphics": [
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "2037-06-30",
+        "readonly": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "전체",
+        "readonly": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "전체",
+        "readonly": ""
+      },
+      "text": ""
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "value": "전체",
+        "readonly": ""
+      },
+      "text": ""
+    }
+  ],
+  "tables": [
+    [
+      [
+        {
+          "text": "자리",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "규칙",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "예",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "품목코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "3자 대문자 고정. §2.1 코드표의 값만 쓴다",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "라인코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "§3.2 고정 구분값",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "SEL",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "규격",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 중량·용량의 숫자부(단위 생략, kg 기준). 소수는 소수점을 유지한다",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "8 · 4.5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "등급",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "생략 = 정상 등급 · -B = 못난이/B급 라인",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "-B",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "감자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "PTT",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "하우스 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "고구마",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "SWP",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "노지 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "NGL",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "참다래",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "KIW",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "만감류(한라봉·천혜향)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MDR",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절임배추",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "SLC",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "애플망고",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MNG",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "갈치",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "GAL",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "멜론",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MLN",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "옥돔",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "OKD",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "제철 채소(꾸러미)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "VEG",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "라인",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "라인",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "STD",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "일반",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "GRN",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "풋과 한정(청귤 등) — 성숙과와 규격·품질 기준이 다르다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SEL",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "당도선별 — 당도보장 표기 있음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "GIFT",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "선물세트(「선물세트 카탈로그(포장·카드 옵션)」)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "HALF",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "반통·소분",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MTO",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "주문 후 개별 제작",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "CUT",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "컷팅",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "BULK",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사업자 도매 전용 포장 규격",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MINI",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "소과·미니",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "RSV",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "예약 판매",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "#",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "항목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "형식 · 구분값",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "필수",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "업무 확인 사항",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상품코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "§2 규칙",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조건부",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "주문·로트 대조 기준",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품목 / 품목코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 / 3자 (§2.1)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "\"우리가 파는 품목인가\"의 1차 대조",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "라인명",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "고객 표기명(상세페이지 제목과 동일)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 대조(「상품 상세페이지(스펙·보관법·배송 안내)」와 표기 일치)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원산지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "도 + 마을명까지 (§4.1) — 시·군 등 행정구역 세부는 적지 않는다",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원산지 문의 응대의 유일한 근거값 — 이 값 밖으로 답하지 아니한다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품종",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기(복수 가능)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품종 특성이 하자인지 정상인지의 기준",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "6",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "재배·조업 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지 / 하우스 / 시설 / 양식 / 조업(자연산)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "작황 리스크·시즌·원가 설명의 축",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "7",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "규격",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량·크기 구간(하한~상한)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "규격 내/규격 외 판정",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 중량 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 / 정량표기 / 미표기 + 표기값",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량 미달 클레임의 기준선 → §4.2",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "9",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "입수(구성 개수)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정수 / 중량판매(개수 비고정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "박스 하자 비율 산정의 분모(「부분환불 산식 · 박스 비율 임계표」) → §4.3",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "등급",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특 / 상 / 보통 / B급(못난이) / 규격 외(출하 제외)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "등급 혼합 주문·못난이 안내 → §3.4",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "11",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "당도보장 표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "있음(N브릭스 이상) / 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하자 ↔ 기호를 가르는 자리 → §4.1",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "12",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "보관 조건",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절단 전/절단 후를 나눠 적는다 (§4.2)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "보관 부주의 귀책 판정(「박스 동봉 안내문(보관법·CS 연락처·접수 기한)」·「상품 상세페이지(스펙·보관법·배송 안내)」와 동일 문안)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "13",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 여부",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 있음 / 후숙 없음(수확 시 당도 확정) / 해당 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "\"며칠 두면 익나\" 오해 방어",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "14",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매 상태",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중 / 시즌 전 / 시즌 종료 / 예약 접수 / 일시 품절 / 단종",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "\"품절\"과 \"시즌 밖\"을 구분 — 재입고 안내와 대안 제시가 갈린다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "15",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "농산 「교동마을 농산 시즌 캘린더」 · 수산 「갯마을 수산 성어기·냉동 공급표」 참조(월 구간) → §4.1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 안내·재입고 시점",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "16",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정상 판매가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원(정수). 프로모션 적용가는 「프로모션 마스터(쿠폰·코드·기간·대상·중복규칙)」",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 오류(0원 등) 대조 · 가격 문의 응대. 값의 정본은 「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "17",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "대체 SKU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상품코드 목록(우선순위 순)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "○",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품절·시즌 밖 대안 제시",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "18",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표시사항",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "「상품 라벨·표시사항(알레르기·원산지·중량)」 라벨 항목 참조(원산지·중량·알레르기) + 품목별 특기 → §4.2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 책임 대조",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "19",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공급 소관",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직) / 갯마을(위탁, 「위탁 계약서(갯마을 조합 ↔ 교동 조합)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "●",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조건부",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품질 책임 주체·수수료 구조",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "20",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "내부 원가·정산",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "매입가·농가 정산가·수수료율",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "○",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "비공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "고객 문의 유형과 무관하게 노출 금지",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "21",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "생산자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "적지 않는다 — 로트 단위 기록은 「로트·출고 검사 기록(당도·중량·온도·로트번호)」 소관",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "—",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "비공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "생산자 지정 불가(「조합 규정집」) → §7",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "값",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "뜻",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "미달 시",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "있음(N브릭스 이상)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상세페이지·라벨에 브릭스 하한을 표기한 라인",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "출고 당도 측정 기록(「로트·출고 검사 기록(당도·중량·온도·로트번호)」)과 대조해 미달이면 하자 — 「판매 환불 규정집」 제7조",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "당도에 관한 수치 표기가 없는 라인",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "주관적 맛·당도 불만은 비보상. 공감 + 대안으로 응대",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "값",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 예",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "허용오차",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "이상표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "\"8kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기값이 하한(절대선)이며 허용오차를 적용하지 아니한다. 하회는 그 자체로 표기 미달이다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "정량표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "\"10kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "±5% — 「판매 환불 규정집」 제6조 · 「상품 라벨·표시사항(알레르기·원산지·중량)」",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "미표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "개수·통 단위 판매",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량 클레임의 기준선이 없다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "값",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "뜻",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "특 / 상 / 보통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정상 등급. 선별 기준의 차이",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정상가",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "B급(못난이)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "흠집·비규격이나 품질 이상 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "할인 판매(「조합 규정집」). 별도 SKU(-B)로 존재해야 재고 조회가 성립",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "규격 외(출하 제외)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "열과·기형 등 재배 단계 결함으로 출하하지 않는 개체",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매하지 아니한다. 예약 수량 산정에서 정상 규격 수량에 세지 않는다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "재배·조업 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 (차기 개시)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 여부",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "원산지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공급 소관",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "6월 하순~8월 (성수기 7월) · 차기 6월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 없음(수확 시 당도 확정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "하우스 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5~9월 (성수기 6~8월) · 차기 5월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 없음(수확 시 당도 확정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "노지 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "NGL",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "11~2월 (성수기 12·1월) · 차기 11월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 없음(수확 시 당도 확정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "만감류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MDR",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "12~3월 · 차기 12월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 없음(수확 시 당도 확정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "애플망고",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MNG",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "6~8월 (예약 4~5월) · 차기 6월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 있음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "멜론",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MLN",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5~8월 · 차기 5월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 있음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "감자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "PTT",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "봄작 5~7월 · 가을작 10~12월 · 저장분 연중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "해당 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "고구마",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "SWP",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "9~12월 (저장 출하 이듬해 4월까지) · 차기 9월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "해당 없음 (출하 전 아묾 처리)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "참다래",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "KIW",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지(과수)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "11~12월 수확 · 저장 출하 이듬해 5월까지 · 차기 11월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 있음(섭취 전 필수)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "절임배추",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "SLC",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지(배추) · 주문 후 절임 제작",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "11~12월 김장철 (예약 개시 9월) · 차기 11월",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "해당 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "갈치",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "GAL",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조업(자연산)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "연중 (냉동 재고 판매 · 성어기 8~11월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "해당 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 근해 조업 · 제주 갯마을 출하장",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "갯마을(위탁, 「위탁 계약서(갯마을 조합 ↔ 교동 조합)」)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "제철 채소",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "VEG",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지·하우스 혼합 · 주 1회 꾸러미 구성",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "연중 (구성이 계절별로 바뀐다)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "해당 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "옥돔",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "OKD",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조업(자연산)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "연중 (냉동 재고 판매 · 성어기 10~12월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "해당 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 근해 조업 · 제주 갯마을 출하장",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "갯마을(위탁, 「위탁 계약서(갯마을 조합 ↔ 교동 조합)」)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "보관 조건",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표시·안내 특기",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절단 전 상온 12℃ 안팎·통풍(2~3주) / 절단 후 랩 밀착 냉장 0~5℃·2~3일 내 섭취·장기는 깍둑 썰어 냉동",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "씨없는 품종(3배체)은 취급하지 아니한다 · 속노랑 라인은 과육이 노란 것이 품종 특성",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "하우스 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "서늘·통풍(10℃ 안팎)·상자를 열어 보관 / 씻지 않은 상태로 두고 무른 개체를 먼저 골라낸다",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "산미는 품종 특성이며 하자가 아니다 · 세척 보관은 곰팡이 원인",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "노지 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤과 같다",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "만감류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "서늘·통풍(8~10℃)·낱개 종이 포장 유지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "껍질이 들뜨고 속이 떠 있는 것(부피과)은 생리현상이며 하자가 아니다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "애플망고",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상온 후숙 → 향이 오르고 눌러 탄력이 생기면 냉장 2~3일 내 섭취. 후숙 전 냉장은 숙성이 멈춘다",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수확 후 3~5일 내 섭취 권장 · 개체별 숙도 도달 순으로 출고돼 출고가 며칠 밀릴 수 있다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "멜론",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상온 후숙 → 꼭지 반대편에서 향이 오르면 냉장 보관 후 섭취",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "그물 무늬(네트)의 굵기·간격 편차는 품종 특성",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "감자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "빛을 차단해 그늘·통풍되는 서늘한 상온. 냉장 금지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "초록 변색·싹은 섭취 안전 안내 대상 — 초록 부위·싹눈을 도려내고 범위가 넓으면 섭취하지 아니한다. 가열해도 없어지지 않는다 · 냉장 시 단맛·갈변(저온당화)이 생긴다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "고구마",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "12~15℃ 상온·신문지로 감싸 통풍. 냉장 금지(13℃ 아래에서 딱딱해지고 이취)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "흙이 묻은 상태로 출하하는 것이 정상 — 세척하면 저장성이 급감한다 · 자른 면의 검은 반점에서 쓴맛이 나면 섭취를 중단한다 · 싹은 독성이 없다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "참다래",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수령 시 딱딱한 것이 정상. 사과와 함께 상온 2~3일 후숙 → 눌러 탄력이 생기면 냉장",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 없이 섭취하면 단맛이 없고 아리다 · 저온에서 장기 저장되는 품목이라 수령 후 여유 기간이 길다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "절임배추",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수령 즉시 서늘한 곳 · 당일~다음 날 김장 권장 · 냉장 시 2~3일",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "주문 후 개별 제작 — 절임 착수 뒤에는 단순 변심 취소가 제한된다(「판매 환불 규정집」 제11조③ 및 개별 생산 재화 사유) · 날짜 지정 주문은 그 날짜가 계약의 본질",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "제철 채소 꾸러미",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수령 즉시 구성 확인 · 잎채소는 냉장 · 구성별 안내지 동봉",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정기배송(구독) 전용 상품 — 회차 스킵·해지는 「정기배송(구독) 약관 — 컷오프·스킵·해지」 컷오프를 따른다 · 구성은 주차별 수급에 따라 바뀐다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "갈치 · 옥돔",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "냉동 -18℃ 이하 유지 · 해동은 냉장 해동 · 해동 후 재냉동 금지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 중량은 원물 순중량이며 얼음·빙장수·표면 빙의는 산입하지 아니한다(「수산물 중량·자연감량 허용치(빙장수·드립)」) · 포장 일체를 통째로 계량한 값과 표기 중량을 직접 비교하지 아니한다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "상품코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "라인명",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품종",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "규격",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "표기 중량",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "입수",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "등급",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "당도보장 표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매 상태",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정상가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "대체 SKU",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-SEL-8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을 당도선별 수박 8kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "스피드꿀(흑피 계열)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 8~12kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"8kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "있음(11브릭스 이상)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "27,900원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-STD-8",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-STD-8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을 수박 8kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "스피드꿀(흑피 계열)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 8~12kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"8kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상·보통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "27,900원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-SEL-8 · WTM-MINI-1",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-STD-8-B",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "못난이 수박 8kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "스피드꿀(흑피 계열)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 8~12kg (외관 흠·형태 편차)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"8kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "B급(못난이)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-STD-8",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-STD-4",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노란수박 4kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "속노랑 계열(노란수박)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 4~6kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"4kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-STD-8",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-HALF-2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "반통 수박 2kg 팩",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "스피드꿀(흑피 계열)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "반통 2kg 팩",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"2kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1팩",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-CUT-1",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-CUT-1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "컷팅 수박 1kg 팩",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "스피드꿀(흑피 계열)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "깍둑 컷팅 1kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"1kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량판매(개수 비고정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-HALF-2",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-MINI-1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플수박(미니) 1kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플수박(유핵)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 1.0~1.5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"1kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-STD-4",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "WTM-RSV-12",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사전예약 대형 수박 12kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "스피드꿀(흑피 계열)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 12~18kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"12kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "예약 접수",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-SEL-8",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "HGL-SEL-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤 당도선별 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감(궁천조생)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 과중 150~200g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"5kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "28과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "있음(12브릭스 이상)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "30,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "HGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감(궁천조생)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 과중 140~200g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"5kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "31과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "24,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-SEL-5 · HGL-STD-10",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "HGL-STD-10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤 10kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감(궁천조생)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "10kg 박스 · 과중 140~200g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"10kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "60과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "45,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "NGL-STD-10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지 감귤 10kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감(흥진조생)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "10kg 박스 · 과중 140~190g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"10kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "62과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "28,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-STD-10",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "NGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지 감귤 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감(흥진조생)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 과중 140~190g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"5kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "32과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "15,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "NGL-STD-5-B",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "못난이 노지 감귤 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감(흥진조생)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 (외관 흠·크기 편차)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"5kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "34과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "B급(못난이)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "NGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "NGL-GRN-3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지 감귤",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "청귤 3kg 한정",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감 풋과(청귤 규격)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "3kg 박스 · 과중 40~60g · 과피 전면 녹색",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"3kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "55과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "예약 접수",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음 — 성숙 감귤로 대체하지 아니한다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MDR-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "만감류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "한라봉 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "한라봉",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 과중 250~350g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"5kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "16과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MDR-GIFT-3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "만감류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "만감류 선물세트 3kg (한라봉·천혜향 혼합)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "한라봉 · 천혜향",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "3kg 세트 · 과중 250~350g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"3kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "9과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-SEL-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MNG-STD-2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플망고",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 애플망고 2kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "어윈",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2kg 박스 · 과중 350~500g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"2kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MLN-STD-4.5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MNG-RSV-2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플망고",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플망고 예약 2kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "어윈",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2kg 박스 · 과중 350~500g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"2kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "예약 접수",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MNG-STD-2",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MNG-STD-3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플망고",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플망고 3kg (산지 직송)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "어윈",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "3kg 박스 · 과중 300~450g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"3kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "8과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MNG-STD-2",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "MLN-STD-4.5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "멜론",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 멜론 4.5kg (2과)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "머스크멜론(네트계)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "4.5kg 박스 · 과중 2.0~2.5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"4.5kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MNG-STD-2",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "PTT-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "감자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "봄감자 저장분 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수미",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 구당 200~300g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"5kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "20개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "PTT-STD-10",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "PTT-STD-10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "감자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "봄감자 저장분 10kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수미",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "10kg 박스 · 구당 200~300g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"10kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "40개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "PTT-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "PTT-STD-5-B",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "감자",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "못난이 감자 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수미",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 구당 150~300g (외관 흠·크기 편차)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"5kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "22개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "B급(못난이)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "PTT-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SWP-STD-3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "고구마",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "흙 고구마 3kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "베니하루카(꿀고구마)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "3kg 박스 · 개당 150~300g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"3kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "14개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "PTT-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SWP-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "고구마",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "흙 고구마 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "호박고구마",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 개당 150~300g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"5kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "22개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "SWP-STD-3",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "KIW-STD-3",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "참다래",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "그린키위 3kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "헤이워드(그린)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "3kg 박스 · 과중 90~120g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"3kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "28과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "KIW-STD-2",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "KIW-STD-2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "참다래",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "골드키위 2kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "해금(골드)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2kg 박스 · 과중 100~130g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"2kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "18과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "KIW-STD-3",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SLC-MTO-10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절임배추",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절임배추 10kg (주문 후 절임)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "배추(가을 만생종)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절임 후 중량 10kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"10kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량판매(개수 비고정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SLC-MTO-20",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절임배추",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절임배추 20kg (주문 후 절임)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "배추(가을 만생종)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절임 후 중량 20kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"20kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량판매(개수 비고정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "시즌 종료",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "SLC-MTO-10",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "GAL-STD-1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "갈치",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 은갈치 1kg (냉동)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "은갈치 — 채낚기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1kg · 마리당 400~600g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"1kg\" (원물 순중량)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량판매(개수 비고정 · 통상 2~3미)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "일시 품절",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "OKD-STD-1",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "OKD-STD-1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "옥돔",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 옥돔 1kg (냉동 · 2마리)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "옥돔",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1kg · 마리당 450~550g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"1kg\" (원물 순중량)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2마리",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "GAL-STD-1",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "OKD-GIFT-2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "옥돔",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "옥돔 선물세트 2kg (냉동 · 4마리)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "옥돔",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "2kg · 마리당 450~550g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"2kg\" (원물 순중량)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "4마리",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "MDR-GIFT-3",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "VEG-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제철 채소",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제철 채소 꾸러미 5kg (주 1회 구성 · 정기배송 전용)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "계절 구성(3~5종)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정량표기 \"5kg\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중량판매(구성 비고정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "— (「가격 정책 시트(하우스/노지 구조·시즌별 가격대)」)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "항목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-SEL-8 (당도선별)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-STD-8 (일반)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "라인명",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을 당도선별 수박 8kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을 수박 8kg 이상 1통",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "원산지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "품종",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "스피드꿀(흑피 계열)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "재배 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "노지",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "규격",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 8~12kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "통수박 8~12kg",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "표기 중량 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"8kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"8kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "입수",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "등급",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상·보통",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "당도보장 표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "있음(11브릭스 이상)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "보관 조건",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "절단 전 상온 12℃ 안팎·통풍(2~3주) / 절단 후 랩 밀착 냉장 0~5℃·2~3일 내 섭취·장기는 깍둑 썰어 냉동",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "후숙 여부",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 없음(수확 시 당도 확정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "판매 상태",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "시즌",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "6월 하순~8월 (성수기 7월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "정상가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "27,900원 — 선별 프리미엄 없음",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "27,900원",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "대체 SKU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-STD-8",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "WTM-SEL-8 · WTM-MINI-1",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "공급 소관",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "항목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-SEL-5 (당도선별)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-STD-5 (일반)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "라인명",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤 당도선별 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스 감귤 5kg",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "원산지",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "제주 교동마을",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "품종",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "온주밀감(궁천조생)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "재배 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "규격",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 과중 150~200g",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5kg 박스 · 과중 140~200g",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "표기 중량 방식",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"5kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "이상표기 \"5kg 이상\"",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "입수",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "28과",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "31과",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "등급",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "특",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "당도보장 표기",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "있음(12브릭스 이상)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "없음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "보관 조건",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "서늘·통풍(10℃ 안팎)·상자를 열어 보관 / 씻지 않은 상태로 두고 무른 개체를 먼저 골라낸다",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "후숙 여부",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후숙 없음(수확 시 당도 확정)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "판매 상태",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매중",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "시즌",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "5~9월 (성수기 6~8월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "같음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "정상가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "30,000원",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "24,000원",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "대체 SKU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-STD-5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "HGL-SEL-5 · HGL-STD-10",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "공급 소관",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "교동마을(직)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "공개",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "조건부(물어본 범위만)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "비공개(말하지 아니한다)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "품목·라인명·원산지·품종·재배 방식·규격·표기 중량·입수·등급·당도보장 표기·보관 조건·후숙 여부·판매 상태·시즌·정상가·대체 SKU·표시사항",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상품코드 · 공급 소관(위탁 여부)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "매입가·농가 정산가·수수료율 · 생산자 실명·연락처·주소 · 내부 등급 강등 사유 · 타 농가 비교 · 내부 운영지침",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "계열",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "확답 창구",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "확답 범위",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "소관 밖",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "농산 10품목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공급자 대표",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품종·규격·표기 스펙·보관·후숙의 생산 측 사실. 타 생산자 품목은 원출처와 확인 시점을 붙여 전달",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수산 2종 · 판매가 정책의 결정",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "수산 2종",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "갯마을 대표",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "갈치·옥돔의 규격·냉동 관행 — 확인한 범위에서만",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "농산 10품목 · 교동 판매 정책",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "대조 질문",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "쓰는 항목",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "사진의 그 상품이 우리가 파는 품목·품종인가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품목 · 품종 · 규격 (§4.1 · §5.3)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "이 품종의 정상 과육색·정상 범위가 무엇인가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품종 · 표시·안내 특기 (§4.2)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "도착한 물건이 우리 SKU에 아예 없는 품목인가(오배송)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "품목 · 상품코드",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "표기된 가격이 정상가인가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정상 판매가",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "못난이·B급 재고가 제도로 존재하나",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "등급 · -B 라인 3종",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "지금 못 파는 이유가 품절인가 시즌 밖인가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판매 상태 · 시즌 · 차기 개시 월",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "당도 불만이 하자인가 기호인가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "당도보장 표기 (+ 「로트·출고 검사 기록(당도·중량·온도·로트번호)」 측정 기록)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "예약 물량 중 정상 규격이 몇 개인가",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "규격 · 등급(규격 외 제외)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "풋과(청귤)를 성숙과 대신 보낼 수 있나",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "별도 SKU · 별도 규격 · 대체 SKU 없음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "날짜",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사실",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SEA-01",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "03-02(월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "봄감자 수확 개시 — 출고 정상",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SEA-04",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "05-14(목)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "하우스감귤 초물 출하 시작 — 물량 소량",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SEA-05",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "05-18(월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "봄감자 시즌 마감 임박 — 이후 저장분 소량 판매로 전환",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SEA-07",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "06-01(월)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "애플망고 초물 출하 시작 — 물량 소량",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SEA-08",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "06-10(수)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박 초물 출하 시작 — 당도 상승 구간 진입",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "SEA-10",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "06-20(토)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수박 시즌 본격 오픈 — 출고 물량 확대",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ]
+  ]
+}

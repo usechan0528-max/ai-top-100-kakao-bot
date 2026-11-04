@@ -1,0 +1,12 @@
+{
+  "name": "ai-top-100-preparation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/dev.ps1 -Task check",
+    "test": "node --test",
+    "test:watch": "node --test --watch",
+    "demo": "node examples/demo.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-31T04:54:47.541Z",
+  "gets": 2,
+  "posts": 0,
+  "refunds": {
+    "status": "ok",
+    "order_no": "100100016",
+    "refunds": [
+      {
+        "receipt_id": "RFD-100100016-01",
+        "request_status": "SUBMITTED",
+        "requested_at": "2037-06-30T12:00:00+09:00",
+        "amount": 34900
+      }
+    ],
+    "notice": "기존 신청 조회입니다. 환불 지급 완료가 아닙니다."
+  },
+  "escalation": {
+    "status": "ok",
+    "order_no": "100100016",
+    "receipt_id": "ESC-18462",
+    "request_status": "SUBMITTED",
+    "requested_at": "2037-06-30T12:00:00+09:00",
+    "review_status": "PENDING",
+    "lane": "LANE2_HANDOFF",
+    "safety": {
+      "mold": true,
+      "symptoms": false
+    },
+    "notice": "기존 담당자 확인 신청 조회입니다. 처리 완료가 아니며 회신 기한은 업무 정책과 시나리오 날짜를 확인하세요."
+  },
+  "correctedAt": "2026-10-31T04:55:15.182Z",
+  "additionalGets": 1
+}

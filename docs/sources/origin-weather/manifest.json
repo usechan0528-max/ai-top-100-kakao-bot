@@ -1,0 +1,59 @@
+{
+  "zip": "DI_nOipTMUa7snyu_7PWrw.zip",
+  "zip_sha256": "e0d19d6153c1af517987d0c39369f27c72294ef2562c5a8fd5928bd4d3d0861b",
+  "files": [
+    {
+      "name": "산지_기상작황물류_사실일지.xlsx",
+      "bytes": 8291,
+      "sha256": "33be8f18662f420a99fd5948003e38b3cf764583a90e0a8775d5b2761b63255a"
+    },
+    {
+      "name": "산지캘린더_기상운영기준.pdf",
+      "bytes": 31293,
+      "sha256": "ffa65ad34a24c1f1c67842551205bba3b884c7e7e598fbea969d0a8e5c1dd2f1"
+    }
+  ],
+  "sheets": [
+    {
+      "name": "개요",
+      "state": "visible",
+      "dimension": "A1:B9",
+      "nonempty_cells": 13,
+      "merges": [],
+      "hidden_rows": [],
+      "hidden_cols": [],
+      "autofilter": [],
+      "formulas": 0,
+      "header_footer": null
+    },
+    {
+      "name": "제2부 별지",
+      "state": "visible",
+      "dimension": "A1:F26",
+      "nonempty_cells": 81,
+      "merges": [
+        "A3:F3",
+        "A26:F26",
+        "A5:F5",
+        "A24:F24"
+      ],
+      "hidden_rows": [],
+      "hidden_cols": [],
+      "autofilter": [
+        {
+          "ref": "A7:B9"
+        }
+      ],
+      "formulas": 0,
+      "header_footer": null
+    }
+  ],
+  "other_parts": [],
+  "defined_names": [
+    {
+      "name": "_xlnm._FilterDatabase",
+      "text": "'제2부 별지'!$A$7:$B$9"
+    }
+  ],
+  "pdf_xlsx_whitespace_normalized_missing_cells": []
+}

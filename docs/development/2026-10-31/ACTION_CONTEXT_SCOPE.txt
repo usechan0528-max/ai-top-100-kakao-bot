@@ -1,0 +1,8 @@
+서버 조회 권한 연결 (2026-10-31)
+src/action-context.mjs resolveActionBinding(env, scope, now)는 ACTION_READ_BINDINGS JSON 설정에서 identify.scope SHA256 소문자64자리 키를 찾는다. 값은 정확히 testCaseId, memberId, expiresAt 3필드다. expiresAt는 UTC ISO 날짜·시각(초 또는 밀리초)이며 실제 서버시각으로 만료 판단한다. 시나리오2037 날짜와 혼동하지 않는다.
+memberId와 TC는 신뢰된 운영 설정에서 공급해야 한다. 고객의 이름·전화·주문번호·TC·“네” 답변에서 인증을 만들지 않는다. 문서화된 케이스 전달/계정 귀속 검증을 완료한 운영자만 연결해야 하며 설정을 가짜 값으로 채우지 않는다.
+createScopedActions는 calendarActions와 적합한 token/binding의 주문·결제 읽기4종만 반환한다. 누락/잘못된/만료 설정에는 달력만 남는다. 메시지의 명시적 TC 또는 /조회 TC가 서버 binding과 다르면 matchesBoundCase로 차단하며 텍스트로 binding을 변경하지 않는다.
+ConversationStore.bindCase는 TC+member 해시를 durable case_binding에 보관한다. 변경·제거·만료 시 memory와 lookup_state를 비우며 writes/events/rates는 보존한다. 처음 도입할 때도 이전 귀속 불명 기억을 비운다. 같은 연결로 재시작하면 기억을 유지한다. 저장 전 sync 실패는 액션 생성 진행을 중단한다.
+매 액션 HTTP 호출 전에 연결이 여전히 유효한지 검사하고 로컬 action-minute 60초20회 내부 상한을 사용한다. 이는 공식 토큰 전체100회 상한 보장을 뜻하지 않는다. 전체 토큰/여러 대화 호출량은 별도 운영 제어가 필요하다.
+Worker는 사용자 확인만으로 getConfirmedOrder/Shipments를 호출하던 direct lookup 경로를 사용하지 않는다. 기존 order-lookup 모듈은 보존하지만 Worker 진입점에서 제거했다. 인증된 서버 binding 없는 조회를 실제 수행했다는 안내를 하지 않는다.
+실제 인증 매핑·ACTION_READ_BINDINGS 운영 설정·라이브 호출·배포는 이 구현으로 완료되지 않았다.

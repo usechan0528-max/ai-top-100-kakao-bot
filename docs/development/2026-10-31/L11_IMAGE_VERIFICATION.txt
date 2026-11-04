@@ -1,0 +1,39 @@
+TC L-11 이미지 확인 기능 검증 — 2026-10-31
+
+근거: docs/sources/public-tcs/originals/L-11.md 기대 대응 1~6 및 L-11.jpg.
+실제 작업일 2026-10-31, 시나리오일 2037-06-30. 신규 사용자 업무자료 수신 아님.
+공식 이미지 입력 형식 참고: https://developers.openai.com/api/docs/guides/images-vision
+Base64 input_image 입력은 기존 코드 그대로 사용했다. 로컬 사진을 시각 대조:
+상자 속 수박 꼭지 주변과 껍질에 흰색·회색 솜털 형태가 넓게 보인다.
+사진으로 주문·로트·원인·섭취·증상은 확인할 수 없다.
+
+실행 및 발견
+- scripts/verify-l11-image.mjs 추가. 공개 CDN의 실제 L-11 사진 → 기존
+  prepareMediaInput → gpt-6-luna 판독 → 실제 상담 모델/runAgent → 콜백 직렬화.
+- 실제 외부 요청은 공개사진 GET와 OpenAI Responses뿐이다. 업무 API 0회,
+  실제 Kakao 전송 0회. 콜백은 대역으로 구조를 확인했다.
+- 최초 실행: 판독 성공, 14,292ms. 사과·섭취·증상 질문이 빠져 불합격.
+  전 결과는 artifacts/l11-image-verification-before.json에 보존했다.
+- business-policy.mjs 보완: 곰팡이 첫 신고 사과, 미확인 섭취·증상·주문번호
+  질문, 이미 답한 항목 재질문 금지, 증상 유무별 보관/폐기 조건 구분.
+- 재실행: 사진/Responses 모두 HTTP200. 사진 관찰 3,940ms,
+  답변 및 모의 콜백 포함 8,444ms. 사과·섭취·증상·주문번호 확인,
+  한 말풍선 SimpleText 500자 이하, 미디어 요약 미보관 확인.
+  artifacts/l11-image-verification.json에 관찰·답변·검사8개 기록.
+- worker.mjs 보완: 사진 다운로드/판독 실패라도 고객의 글 설명이 있으면
+  unavailable 근거와 함께 상담으로 전달한다. 이 경우 기존 쓰기 차단을 유지한다.
+  사진 링크만 있으면 재전송/글 설명 요청으로 종료한다.
+- tests/l11-image-worker.test.mjs 3개: 성공, 실패+하자 글, 실패+링크만.
+  모의 모델/다운로드/콜백으로 Worker 연결, 근거 전달, 요약 미보관 확인.
+- node --test: 371/371 통과, 실패0, skip0.
+  로그: artifacts/l11-regression-tests.log. 테스트용 DB 대역 초기 오류를
+  동기 실행 방식으로 고친 뒤 전체 재실행한 결과다.
+
+한계와 상태
+- 검증된 인입은 d.content의 공개 대회 CDN 사진 URL 문자열이다.
+  카카오 네이티브 사진 첨부 필드/실제 전송 이벤트는 미확정·미검증이다.
+- 실모델 재검증은 변경 후 1회 표본이다. 약8.4초는 로컬 측정이며 p95나
+  평가 서버 latency가 아니다. 모델 응답의 항상 성공을 보장하지 않는다.
+- 이번 실모델 검증은 도구 없는 첫 응답이다. L-11 기대2~6의 배송/로트/
+  조사/신고 조회 및 환불·이관 접수를 검증한 것으로 확대하지 않는다.
+- 로컬 구현·검증 완료, 배포 미수행. 기존 실제 접수 재실행 없음.

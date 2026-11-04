@@ -1,0 +1,10 @@
+{
+  "http": 200,
+  "actionTokenAccepted": true,
+  "body": {
+    "authenticated": true,
+    "orderRead": true,
+    "shipmentRead": true,
+    "readOnly": true
+  }
+}

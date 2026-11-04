@@ -1,0 +1,46 @@
+{
+  "table_comparison": [
+    {
+      "sheet": "2. 임계·기록 규약",
+      "html_table_rows_with_header": 7,
+      "compared_cells": 21,
+      "result": "equal"
+    },
+    {
+      "sheet": "3. 기재 항목 및 작성 기준",
+      "html_table_rows_with_header": 10,
+      "compared_cells": 40,
+      "result": "equal"
+    },
+    {
+      "sheet": "4. 구간 요약",
+      "html_table_rows_with_header": 5,
+      "compared_cells": 45,
+      "result": "equal"
+    },
+    {
+      "sheet": "5. 이탈 구간 상세",
+      "html_table_rows_with_header": 11,
+      "compared_cells": 55,
+      "result": "equal"
+    },
+    {
+      "sheet": "6. 연결 기록의 결번",
+      "html_table_rows_with_header": 5,
+      "compared_cells": 10,
+      "result": "equal"
+    },
+    {
+      "sheet": "7. 조회 기준",
+      "html_table_rows_with_header": 4,
+      "compared_cells": 8,
+      "result": "equal"
+    }
+  ],
+  "total_compared_cells": 179,
+  "svg_points_matching_detail": 10,
+  "overview_B11_truncated_in_original": true,
+  "archive_bytes_match": true,
+  "xlsx_native_print_rendered": false,
+  "html_fullpage_visual_reviewed": true
+}

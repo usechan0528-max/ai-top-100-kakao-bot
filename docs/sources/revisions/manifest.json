@@ -1,0 +1,82 @@
+{
+  "source": "C:\\Users\\dldyd\\Downloads\\7pwiM8P_JmEfMSbzvIuwuQ.zip",
+  "sha256": "2f0631c43808a277d9c81f012c4510012e921be033f09e017c790bba2fa32910",
+  "members": [
+    {
+      "name": "B09_old-paper-photo.png",
+      "bytes": 2013227
+    },
+    {
+      "name": "B09_revision-history.docx",
+      "bytes": 43398
+    }
+  ],
+  "remote_comparison": [
+    {
+      "file": "7pwiM8P_JmEfMSbzvIuwuQ.zip",
+      "sha256": "2f0631c43808a277d9c81f012c4510012e921be033f09e017c790bba2fa32910",
+      "equals_local": true
+    },
+    {
+      "file": "6iTYICPyXjcgE67V6KauZQ.zip",
+      "sha256": "9a9466a546516effc8a2d7d15851ba45cc79aa01b975d9c3b9bcecb2bce0041e",
+      "equals_local": true
+    }
+  ],
+  "files": [
+    {
+      "name": "B09_revision-history.docx",
+      "bytes": 43398,
+      "sha256": "5bba3bc69450eeafd3a49f7a127f1652c31bf8ae329c9e3e11b510c91748cc58"
+    },
+    {
+      "name": "B09_old-paper-photo.png",
+      "bytes": 2013227,
+      "sha256": "8df97df9497dc43b73b55dc1afd8cf03f51b618b1d6e609cbf5b89be98ce4855"
+    }
+  ],
+  "docx_audit": {
+    "package_members": [
+      "[Content_Types].xml",
+      "_rels/.rels",
+      "docProps/core.xml",
+      "docProps/app.xml",
+      "word/document.xml",
+      "word/_rels/document.xml.rels",
+      "word/styles.xml",
+      "word/stylesWithEffects.xml",
+      "word/settings.xml",
+      "word/webSettings.xml",
+      "word/fontTable.xml",
+      "word/theme/theme1.xml",
+      "customXml/item1.xml",
+      "customXml/_rels/item1.xml.rels",
+      "customXml/itemProps1.xml",
+      "word/numbering.xml",
+      "docProps/thumbnail.jpeg"
+    ],
+    "paragraphs": 41,
+    "tables": 5,
+    "blocks": 46,
+    "body_table_rows": [
+      4,
+      6,
+      4,
+      6,
+      5
+    ],
+    "table_columns": [
+      6,
+      3,
+      5,
+      3,
+      3
+    ],
+    "explicit_page_breaks": 0,
+    "rendered_page_breaks": 0,
+    "textboxes": 0,
+    "drawings": 0,
+    "deleted_text": 0,
+    "render_status": "failed: LibreOffice soffice.exe missing; Word COM registration not found; printed pages not verified"
+  }
+}

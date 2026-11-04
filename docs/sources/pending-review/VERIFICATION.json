@@ -1,0 +1,22 @@
+{
+  "files": 26,
+  "hash_mismatches": [],
+  "missing_transcripts": [],
+  "pending_placeholders": [],
+  "html_missing_text_nodes": {
+    "로트원장.html": 0,
+    "프로모션원장.html": 0,
+    "Keze5-ihBAYJhBQV_i-aEw.html": 0,
+    "m1SLEboPRfEAY8Y90ZFzMQ.html": 0,
+    "Yku9ZG2eH3PsliWC0108RA.html": 0
+  },
+  "xlsx_missing_cells": {
+    "농산시즌캘린더.xlsx": 0,
+    "Hj1zGIAFSFLkJv-2_0Womg.xlsx": 0
+  },
+  "pdf_pages": 17,
+  "png_count": 12,
+  "links_missing": [],
+  "remaining_unreceived_cdn_links": 0,
+  "validation_scope": "파일/해시/전사누락/링크 정적 검사. 시각검수는 README 범위. 실행API/모델 테스트 아님."
+}

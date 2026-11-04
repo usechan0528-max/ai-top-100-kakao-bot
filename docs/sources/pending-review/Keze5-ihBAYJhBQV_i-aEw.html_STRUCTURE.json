@@ -1,0 +1,1011 @@
+{
+  "controls_links_graphics": [
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "skip"
+        ],
+        "href": "#main"
+      },
+      "text": "본문 바로가기"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "brand"
+        ],
+        "href": "#top"
+      },
+      "text": "교 교동마을 산지직송"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "상품 소개",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "상품 소개 · 잠김 · 안내 보기"
+      },
+      "text": "상품 소개"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "농가 이야기",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "농가 이야기 · 잠김 · 안내 보기"
+      },
+      "text": "농가 이야기"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "조합원 규정",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "조합원 규정 · 잠김 · 안내 보기"
+      },
+      "text": "조합원 규정"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#artifact-nav",
+        "class": [
+          "current-menu"
+        ],
+        "aria-current": "location"
+      },
+      "text": "이용 안내"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "사업자정보",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "사업자정보 · 잠김 · 안내 보기"
+      },
+      "text": "사업자정보"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "class": [
+          "print"
+        ],
+        "type": "button",
+        "onclick": "window.print()"
+      },
+      "text": "문서 인쇄 ↗"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "판매·환불 규정",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "판매·환불 규정 · 잠김 · 안내 보기"
+      },
+      "text": "판매·환불 규정"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "정기배송 약관",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "정기배송 약관 · 잠김 · 안내 보기"
+      },
+      "text": "정기배송 약관"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "개인정보 처리방침",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "개인정보 처리방침 · 잠김 · 안내 보기"
+      },
+      "text": "개인정보 처리방침"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "피싱·사칭 주의",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "피싱·사칭 주의 · 잠김 · 안내 보기"
+      },
+      "text": "피싱·사칭 주의"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "current-menu"
+        ],
+        "href": "#main",
+        "aria-current": "page"
+      },
+      "text": "증빙 발행 안내"
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "type": "button",
+        "class": [
+          "locked-menu"
+        ],
+        "data-label": "산지 픽업 안내",
+        "aria-haspopup": "dialog",
+        "aria-controls": "locked-dialog",
+        "aria-label": "산지 픽업 안내 · 잠김 · 안내 보기"
+      },
+      "text": "산지 픽업 안내"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-1"
+      },
+      "text": "01 1. 결제수단별 발행 대상"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-2"
+      },
+      "text": "02 2. 현금영수증"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-3"
+      },
+      "text": "03 3. 세금계산서"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-4"
+      },
+      "text": "04 4. 정정 사유"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-5"
+      },
+      "text": "05 5. 환불 시 처리"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-6"
+      },
+      "text": "06 6. 거절 대상"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#section-7"
+      },
+      "text": "07 7. 상담 안내 예시"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "class": [
+          "back"
+        ],
+        "href": "#top"
+      },
+      "text": "↑ 맨 위로"
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "#top"
+      },
+      "text": "맨 위로 ↑"
+    },
+    {
+      "tag": "svg",
+      "attributes": {
+        "class": [
+          "lock-icon"
+        ],
+        "viewbox": "0 0 20 20",
+        "aria-hidden": "true"
+      },
+      "text": ""
+    },
+    {
+      "tag": "button",
+      "attributes": {
+        "class": [
+          "dialog-confirm"
+        ],
+        "autofocus": ""
+      },
+      "text": "확인"
+    }
+  ],
+  "tables": [
+    [
+      [
+        {
+          "text": "결제수단",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "증빙",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "발행",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "현금 · 계좌이체 · 무통장입금",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "현금영수증",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "✅ §2",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "카드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "카드 매출전표",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "❌ 별도 발행하지 않는다 — 중복 증빙이 된다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "사업자 거래(도매)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전자세금계산서",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "✅ §3 · 도매 조건은 「사업자 도매 거래 안내(물량별 단가·정기 공급)」",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "적립금 · 쿠폰 사용분",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "—",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "❌ 발행 대상 아님",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "분할결제",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수단별로 나눠 처리",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "현금분만 현금영수증, 카드분은 매출전표",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "값",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발행 유형",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "소득공제용 (개인) · 지출증빙용 (사업자)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "지정번호",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "휴대폰번호 · 현금영수증카드 · 사업자등록번호 중 하나",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "요청 기한",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거래일이 속한 달의 다음 달 10일까지",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "기한 경과 후",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "국세청 자율 발급 절차 안내 (조합 발행은 불가)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "요청 경로",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상담 채널 · 마이페이지",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "처리",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "주문 조회 → 결제수단·실결제액 확인 → 발행 처리 → 안내",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "값",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발행 명의",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "실제 결제하고 공급받은 사업자",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "확인 서류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사업자등록증 · 결제 명의와의 일치",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "확인 항목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "상호 · 사업자등록번호 · 대표자명 · 업태·종목 · 수취 이메일",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발행 기한",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "월 마감분 익월 10일까지",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "유형",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "건별 · 월 합계 (정기 공급 거래처)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "정정·재발행 소요",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "1~2 영업일",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "세액",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "면세 — 0원. 취급 품목은 전부 미가공 농·수산물이라 공급가액만 기재한다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "과세 항목",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "배송·운송비 등 용역분만 과세. 함께 청구되면 상품(면세)과 항목을 나눠 기재하고 그 항목만 세액을 계산한다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "코드",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사유",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "방법",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "기한",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "TX-01",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "기재사항 착오(상호·주소·업태 오기)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "수정 발행",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "확인 즉시",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "TX-02",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "공급가액 변동 — 부분환불·부분취소",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "차액분 수정 발행",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사유 발생일 기준",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "TX-03",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "계약 해제 — 전액환불·전량취소",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "전액 취소 발행",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "사유 발생일 기준",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "TX-04",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "중복 발행",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "후행분 취소",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "확인 즉시",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "TX-05",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "명의 오류",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "정정이 아니라 취소 후 정당 명의로 재발행",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "확인 즉시",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "TX-06",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "필요적 기재사항 누락",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "재발행",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "확인 즉시",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "상황",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "처리",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발행 전 환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "발행하지 않는다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "전액환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "현금영수증 취소 / 세금계산서 TX-03 전액 취소 발행",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "부분환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "차액만큼 수정 발행 ( TX-02 ) — 원본을 취소하지 않는다",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발행월 마감 후 환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "취소·수정 발행일은 환불 승인일 기준",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "적립금 환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "현금 환급이 아니므로 증빙 정정 없음",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "부분환불 후 재차 부분환불",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "잔액 기준으로 다시 수정 발행",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "text": "요구",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "판정",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "실제 결제자와 다른 사업자 명의",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거절",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "가공 사업자 명의",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거절",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "개인 결제분을 사업자 명의 로",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거절 (실제 공급받은 자가 아니다)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "실결제액보다 많은 금액 기재",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거절",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "실제와 다른 품목·품명 기재",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거절",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "발행 기한 지난 건의 소급 발행",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거절 — 국세청 자율 발급 안내",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      [
+        {
+          "text": "결제가 취소된 거래 의 증빙을 그대로 유지해 달라는 요구",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "text": "거절 — 거래가 취소되었으므로 해당 증빙을 유지할 수 없다 (§5)",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ]
+    ]
+  ]
+}
